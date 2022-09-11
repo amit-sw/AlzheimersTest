@@ -4533,11 +4533,6 @@ G01AE10,For the treatment of Crohn's disease and rheumatoid arthritis as a secon
 A07EC01,For the treatment of Crohn's disease and rheumatoid arthritis as a second-line agent.
 M02AX02,For the treatment of pulmonary artery anomalies
 C04AB02,For the treatment of pulmonary artery anomalies
-S01AA11,
-S02AA14,
-D06AX07,
-S03AA06,
-J01GB03,
 D05AX05,"Used to treat psoriasis, acne and sun damaged skin (photodamage)."
 C01CA19,"For the in-hospital, short-term (up to 48 hours) management of severe hypertension when rapid, but quickly reversible, emergency reduction of blood pressure is clinically indicated, including malignant hypertension with deteriorating end-organ function."
 N05BA13,"Used to relieve anxiety, nervousness, and tension associated with anxiety disorders."
@@ -6529,7 +6524,6 @@ L01XX11,For the palliative treatment of patients with metastatic and/or progress
 C09AA01,"For the treatment of essential or renovascular hypertension (usually administered with other drugs, particularly thiazide diuretics). May be used to treat congestive heart failure in combination with other drugs (e.g. cardiac glycosides, diuretics, &beta;-adrenergic blockers). May improve survival in patients with left ventricular dysfunction following myocardial infarction. May be used to treat nephropathy, including diabetic nephropathy. "
 C09BA01,"For the treatment of essential or renovascular hypertension (usually administered with other drugs, particularly thiazide diuretics). May be used to treat congestive heart failure in combination with other drugs (e.g. cardiac glycosides, diuretics, &beta;-adrenergic blockers). May improve survival in patients with left ventricular dysfunction following myocardial infarction. May be used to treat nephropathy, including diabetic nephropathy. "
 N05CF01,For the short-term treatment of insomnia.
-M03AA02,
 N04BC01,"For the treatment of galactorrhea due to hyperprolactinemia, prolactin-dependent menstrual disorders and infertility, prolactin-secreting adenomas, prolactin-dependent male hypogonadism, as adjunct therapy to surgery or radiotherapy for acromegaly or as monotherapy is special cases, as monotherapy in early Parksinsonian Syndrome or as an adjunct with levodopa in advanced cases with motor complications. Bromocriptine has also been used off-label to treat restless legs syndrome and neuroleptic malignant syndrome."
 G02CB01,"For the treatment of galactorrhea due to hyperprolactinemia, prolactin-dependent menstrual disorders and infertility, prolactin-secreting adenomas, prolactin-dependent male hypogonadism, as adjunct therapy to surgery or radiotherapy for acromegaly or as monotherapy is special cases, as monotherapy in early Parksinsonian Syndrome or as an adjunct with levodopa in advanced cases with motor complications. Bromocriptine has also been used off-label to treat restless legs syndrome and neuroleptic malignant syndrome."
 J04AB05,For the treatment of pulmonary tuberculosis.
@@ -6721,7 +6715,6 @@ A10AB06,Insulin glulisine is indicated to improve glycemic control in adults and
 J05AE07,"Indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection, as well as postexposure prophylaxis of HIV infection in individuals who have had occupational or nonoccupational exposure to potentially infectious body fluids of a person known to be infected with HIV when that exposure represents a substantial risk for HIV transmission. The use of fosamprenavir is pending revision due to a potential association between the drug and myocardial infarction and dyslipidemia in HIV infected adults."
 N03AB05,"Fosphenytoin is indicated for the treatment of generalized tonic-clonic status epilepticus and for the prevention and treatment of seizures occurring during neurosurgery in adult patients. It can also be substituted, short-term, for oral phenytoin in patients aged two years and older when oral phenytoin administration is not possible.[L20619]"
 J01FA07,For the treatment of bacterial infections.
-N06AX25,
 C03AA05,Polythiazide is a thiazide diuretic used to decrease edema and decrease blood pressure.
 G01AE10,Polythiazide is a thiazide diuretic used to decrease edema and decrease blood pressure.
 C03AB05,Polythiazide is a thiazide diuretic used to decrease edema and decrease blood pressure.
@@ -6749,7 +6742,6 @@ J01DD12,"Indicated for the treatment of following infections caused by susceptib
 J01DC05,For prophylaxis and treatment of bacterial infections.
 J01DC01,For the treatment of serious infections caused by susceptible strains microorganisms.
 J01DD07,Cetizoxime was previously indicated for the treatment of infections due to susceptible strains of bacteria.
-J01DB09,
 M03AC01,Used as a muscle relaxant during anesthesia and surgical procedures.
 M03AC06,Used as a muscle relaxant during anesthesia and surgical procedures.
 M03AC03,Vecuronium is a muscle relaxing agent and is used as an adjunct in general anesthesia.
@@ -6758,9 +6750,6 @@ C09AA08,Cilazapril is an ACE inhibtor class drug used in the treatment of hypert
 V03AE01,Used to treat abnormally high potassium levels.
 C09AA11,Spirapril is an ACE inhibitor class drug used to treat hypertension.
 C09CA05,Tasosartan is infrequently in the treatment of hypertension and heart failure.
-N05CA02,
-N05CB01,
-N05CA05,
 N05CA03,For the treatment of insomnia.
 N05CA11,Used mainly for sedation and hypnosis.
 N01AF02,"For the induction of anesthesia prior to the use of other general anesthetic agents and for induction of anesthesia for short surgical, diagnostic, or therapeutic procedures associated with minimal painful stimuli."
@@ -6845,7 +6834,6 @@ N02BB73,"Formerly widely used as an antipyretic and analgesic in rheumatism, neu
 A03FA05,"Alizapride is used in the treatment of nausea and vomiting, including postoperative nausea and vomiting. "
 C01BA05,For use as an antiarrhythmic agent.
 C01CE01,Used in the treatment of congestive heart failure.
-C01BB04,
 R07AB07,For the treatment of chronic obstructive pulmonary disease.
 G03DC01,"Allylestrenol was designed to be used for miscarriage prevention, prevention of premature labour and has been investigated for possible use in men for treatment for benign prostatic hyperplasia."
 C10AC01,Indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet. Also for the relief of pruritus associated with partial biliary obstruction.
@@ -6874,22 +6862,14 @@ N02AC05,A narcotic analgesic once used for the treatment of severe chronic pain.
 N06BA06,"For the the treatment of depressive fatigue in convalescence and other debilitated states as well as in the treatment of depressive day-time fatigue, lack of concentration and lethargy."
 S01XA06,Ethylmorphine is an analgesic used for pain relief.
 R05DA01,Ethylmorphine is an analgesic used for pain relief.
-N06BA10,
-N05CA04,
 A08AA07,Used to decrease appetite.
 N05BA15,Camazepam has been used in placebo controlled studies for the treatment of patients suffering from anxiety and depression. 
-A14AB02,
-N05CC04,
 A07DA04,"Motofen(R) is a combination of atropine, an anticholinergic drug, and difenoxin, an antidiarrheal drug. It has been used in many countries for many years as a second line opioid-agonist antidiarrheal, which exists an intermediate between loperamide and paragoric. [2]
 
 Diarrhea which is a result of cyclic or diarrhea predominant Inflammatory Bowel Syndrome may not be treated effectively with difenoxin, diphenoxylate, or loperamide. As such, diarrhea and cramping which does not respond to non-centrally acting derivatives or belladonna derivatives such as atropine are often treated with conservative doses of codeine. In patients with acute ulcerative colitis, as induction of toxic megacolon is possible, and thus use of Motofen(R) is cautioned.  
 
 Motofen(R) has been assigned pregnancy category C by the FDA, and is to be used only when the potential benefits outweigh the potential risk to the fetus. The safety of use during lactation is unknown and thus not recommended. "
-N02AC01,
-N05CC02,
-R05DA12,
 N05CD03,"For short-term treatment of severe insomnias, that are not responsive to other hypnotics."
-N05BA18,
 N02AA58,"Dihydrocodeine is used for the treatment of moderate to severe pain, including post-operative and dental pain [2]. It  can also be used to treat chronic pain [1], breathlessness and coughing. 
 
 In heroin addicts, dihydrocodeine has been used as a substitute drug, in doses up to 2500mg/day to treat addiction. [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014322/]
@@ -7006,45 +6986,24 @@ V04CC01,Used as a non-stimulant laxative via an oral suspension or enema.
 A06AD18,Used as a non-stimulant laxative via an oral suspension or enema.
 A06AG07,Used as a non-stimulant laxative via an oral suspension or enema.
 R03DX07,Roflumilast is indicated as a treatment to reduce the risk of COPD exacerbations in patients with severe COPD associated with chronic bronchitis and a history of exacerbations. Roflumilast is not a bronchodilator and is not indicated for the relief of acute bronchospasm.
-D05AX01,
-C05CA51,
-C05CA01,
 G03EA03,"DHEA is taken as a supplement for a variety of unsubstantiated indications. The following indications have shown promise and are backed up by some scientific evidence: schizophrenia (DHEA may be more effective in women than men); improving the appearance of older people’s skin (taking DHEA by mouth seems to increase skin thickness and moisture, and decrease facial “age spots” in elderly men and women); improving ability to achieve an erection in men with sexual dysfunction. Additionally, DHEA has shown promise in improving symptoms of lupus (SLE). Taking DHEA by mouth along with conventional treatment may help reduce the number of times symptoms flare up and may allow a reduction in the dose of prescription drugs needed. DHEA may also help SLE symptoms such as muscle ache and mouth ulcers. DHEA also seems to strengthen bones in SLE patients being treated with high-dose steroids (corticosteroids).
 DHEA also shows promise in the treatment of osteoporosis. Taking DHEA by mouth daily seems to improve bone mineral density (BMD) in older women and men with osteoporosis or osteopenia (pre-osteoporosis). DHEA may also increase BMD in young women with the eating disorder called anorexia nervosa. DHEA is often prescribed in India for the induction of ovulation to improve chances of pregnancy."
 G03XX01,"DHEA is taken as a supplement for a variety of unsubstantiated indications. The following indications have shown promise and are backed up by some scientific evidence: schizophrenia (DHEA may be more effective in women than men); improving the appearance of older people’s skin (taking DHEA by mouth seems to increase skin thickness and moisture, and decrease facial “age spots” in elderly men and women); improving ability to achieve an erection in men with sexual dysfunction. Additionally, DHEA has shown promise in improving symptoms of lupus (SLE). Taking DHEA by mouth along with conventional treatment may help reduce the number of times symptoms flare up and may allow a reduction in the dose of prescription drugs needed. DHEA may also help SLE symptoms such as muscle ache and mouth ulcers. DHEA also seems to strengthen bones in SLE patients being treated with high-dose steroids (corticosteroids).
 DHEA also shows promise in the treatment of osteoporosis. Taking DHEA by mouth daily seems to improve bone mineral density (BMD) in older women and men with osteoporosis or osteopenia (pre-osteoporosis). DHEA may also increase BMD in young women with the eating disorder called anorexia nervosa. DHEA is often prescribed in India for the induction of ovulation to improve chances of pregnancy."
 A14AA07,"DHEA is taken as a supplement for a variety of unsubstantiated indications. The following indications have shown promise and are backed up by some scientific evidence: schizophrenia (DHEA may be more effective in women than men); improving the appearance of older people’s skin (taking DHEA by mouth seems to increase skin thickness and moisture, and decrease facial “age spots” in elderly men and women); improving ability to achieve an erection in men with sexual dysfunction. Additionally, DHEA has shown promise in improving symptoms of lupus (SLE). Taking DHEA by mouth along with conventional treatment may help reduce the number of times symptoms flare up and may allow a reduction in the dose of prescription drugs needed. DHEA may also help SLE symptoms such as muscle ache and mouth ulcers. DHEA also seems to strengthen bones in SLE patients being treated with high-dose steroids (corticosteroids).
 DHEA also shows promise in the treatment of osteoporosis. Taking DHEA by mouth daily seems to improve bone mineral density (BMD) in older women and men with osteoporosis or osteopenia (pre-osteoporosis). DHEA may also increase BMD in young women with the eating disorder called anorexia nervosa. DHEA is often prescribed in India for the induction of ovulation to improve chances of pregnancy."
-D08AJ04,
-D11AC01,
-R02AA17,
-D08AJ02,
-C01EB02,
 D03AX04,"Studied for the treatment of many uses such as treatment of testicular torsion, diabetic ulceration, wound healing, acne, obesity, diabetic peripheral polyneuropathy. It has also been investigated for its hypolipidemic effects and as cholesterol lowering agent."
 A11HA31,"Studied for the treatment of many uses such as treatment of testicular torsion, diabetic ulceration, wound healing, acne, obesity, diabetic peripheral polyneuropathy. It has also been investigated for its hypolipidemic effects and as cholesterol lowering agent."
-M01AG03,
 D05AX52,For the treatment of moderate plaque psoriasis in adults.
 D05AX02,For the treatment of moderate plaque psoriasis in adults.
-D08AX05,
-A02BX01,
-A02BX71,
-A02BX51,
-D02BA01,
-D11AX23,
 A10XA01,For the pharmacological control of certain diabetic complications.
 L01XX38,"For the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies."
 H01BA04,Commonly used to stop bleeding of varices in the food pipe (oesophagus).
-P01AX10,
 A05AA03,"Oral cholic acid is indicated for: treatment of bile acid synthesis disorders due to single enzyme defects; and as adjunctive treatment of peroxisomal disorders including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease, steatorrhea or complications from decreased fat soluble vitamin absorption. "
-A11HA01,
 S01AA13,For the treatment of bacterial infections.
 D09AA02,For the treatment of bacterial infections.
 J01XC01,For the treatment of bacterial infections.
 D06AX01,For the treatment of bacterial infections.
-A14AA01,
-G03BB02,
-C03CA03,
-G01AE10,
 N06AX01,"For use as an antidepressant, appetite suppressant, and sleep aid."
 A12CC08,"There is currently no clinically approved and/or marketed medicine that relies upon pidolic acid as an active ingredient for any formal therapeutic indication.
 
@@ -7054,21 +7013,11 @@ Pidolic acid and sodium pidolic acid are, however, used to some extent in skin a
 S01EB09,"Used to obtain miosis of the iris in seconds after delivery of the lens in cataract surgery, in penetrating keratoplasty, iridectomy and other anterior segment surgery where rapid miosis may be required."
 S02AA10,Used to treat infections in the ear canal.
 G01AD02,Used to treat infections in the ear canal.
-D08AX03,
-D08AX53,
 C05BB05,"Phenol is primarily indicated for minor sore throat pain, sore mouth, minor mouth irritation, and pain associated with canker sores. Additionally, phenol is indicated in the treatment of focal spasticity. "
 R02AA19,"Phenol is primarily indicated for minor sore throat pain, sore mouth, minor mouth irritation, and pain associated with canker sores. Additionally, phenol is indicated in the treatment of focal spasticity. "
 N01BX03,"Phenol is primarily indicated for minor sore throat pain, sore mouth, minor mouth irritation, and pain associated with canker sores. Additionally, phenol is indicated in the treatment of focal spasticity. "
 D08AE03,"Phenol is primarily indicated for minor sore throat pain, sore mouth, minor mouth irritation, and pain associated with canker sores. Additionally, phenol is indicated in the treatment of focal spasticity. "
-J05AB15,
 B06AB01,"Used in the management of porphyria attacks, particularly in acute intermittent porphyria."
-M01AA03,
-M02AA04,
-S01BC02,
-H03AA04,
-D11AX08,
-B03BA05,
-J01GB10,
 D11AX24,For improvement in appearance of moderate to severe fullness associated with submental fat in adults. 
 B05XX02,For the prevention and correction of metabolic acidosis.
 B05BB03,For the prevention and correction of metabolic acidosis.
@@ -7080,14 +7029,6 @@ Nevertheless, a great variety of propionic acid derivatives exist as separate ph
 N02BE73,Used principally as an analgesic.
 N02BE03,Used principally as an analgesic.
 N02BE53,Used principally as an analgesic.
-A16AX11,
-V04CG30,
-S03AA05,
-D08AC04,
-R02AA18,
-R01AX07,
-S01AX08,
-R05CA13,
 D02AE01,"<ul>
 <li>10% hydrate skin</li>
 <li>15% accelerate fibrin degradation</li>
@@ -7109,23 +7050,14 @@ D02AE51,"<ul>
 <li>40% are proteolytic and may be used to dissolve and peel dystrophic nails</li>
 </ul>
 <br>[Patient Self Care, 2010]</br>"
-L01AD05,
-C10AD05,
-C04AC02,
-N03AG02,
-V06DC02,
 D08AH01,"Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. "
 R02AA02,"Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. "
 G01AC05,"Effective local treatment as vaginal tablets for infections such as fluor vaginalis, bacterial vaginosis, aerobic vaginitis, vulvo-vaginal candidiasis and trichomoniasis. Used as a topical antimicrobial agent. "
-D08AJ06,
-A09AB04,
 G01AX02,"The primary popular claim made for inosine, that it enhances exercise and athletic performance, is refuted by the available research data. There is some preliminary evidence that inosine may have some neurorestorative, anti-inflammatory, immunomodulatory and cardioprotective effects."
 S01XA10,"The primary popular claim made for inosine, that it enhances exercise and athletic performance, is refuted by the available research data. There is some preliminary evidence that inosine may have some neurorestorative, anti-inflammatory, immunomodulatory and cardioprotective effects."
 D06BB05,"The primary popular claim made for inosine, that it enhances exercise and athletic performance, is refuted by the available research data. There is some preliminary evidence that inosine may have some neurorestorative, anti-inflammatory, immunomodulatory and cardioprotective effects."
 R05CB03,"Carbocisteine is indicated over the counter and in prescription formulas to clear airway secretions in conditions associated with increased mucus.[L24484,L24984,L20019]"
-C10AX05,
 G01AD01,For use as an alkalinizing agent.
-D08AK30,
 M02AA17,Used in the treatment of rheumatoid arthritis.
 M01AX02,Used in the treatment of rheumatoid arthritis.
 J01DD06,"Latamoxef is an oxacephem antibiotic usually grouped with the cephalosporins. It is used to treat bacterial infections. Latamoxef  is primarily indicated in conditions like Bone and joint infection, GI infections, Gynecological infections, Meningitis, Respiratory tract infections, Septicaemia, Skin infections, Soft tissue infections, UTI. "
@@ -7135,44 +7067,24 @@ L01AC01,"ThioTEPA is used a as conditioning treatment prior to allogeneic or aut
 G03CC06,Used as a test to determine the general health of an unborn fetus.
 G03CA04,Used as a test to determine the general health of an unborn fetus.
 J01MA08,Fleroxacin is a broad-spectrum antimicrobial fluoroquinolone.
-N06BX11,
-H02AA01,
-N07AX02,
 V08AC04,Iodipamide is used as a contrast agent for cholecystography and intravenous cholangiography.
 M01AX17,"For the treatment of acute pain, the symptomatic treatment of osteoarthritis and primary dysmenorrhoea in adolescents and adults above 12 years old."
 M02AA26,"For the treatment of acute pain, the symptomatic treatment of osteoarthritis and primary dysmenorrhoea in adolescents and adults above 12 years old."
 P01CX02,"For treatment of human sleeping sickness, onchocerciasis and other diseases caused by trypanosomes and worms."
 D01AC10,"Used for the treatment of various topical fungal infections, including athlete's foot (tinea pedis)."
 D01AC60,"Used for the treatment of various topical fungal infections, including athlete's foot (tinea pedis)."
-M01AE06,
-D10AB01,
-P02BX01,
 G01AC02,Used as a topical antifungal treatment.
 S02AA05,Used as a topical antifungal treatment.
 D09AA10,Used as a topical antifungal treatment.
 P01AA02,Used as a topical antifungal treatment.
 P01AA52,Used as a topical antifungal treatment.
 D08AH30,Used as a topical antifungal treatment.
-A06AB53,
-A06AB03,
-A06AG03,
 N02BB72,Used in the past as a powerful painkiller and fever reducer.
 N02BB02,Used in the past as a powerful painkiller and fever reducer.
 N02BB52,Used in the past as a powerful painkiller and fever reducer.
 N06AF05,For the treatment of depression (originally intended to treat tuberculosis).
-R06AC05,
-N06AF02,
-N06AX04,
-R05DB09,
-A06AB01,
 A06AB04,Used for over a century as a laxative.
-C01DX52,
-C01DX02,
-R06AX03,
-R06AX53,
-D04AA03,
 M01AB04,Zomepirac was indicated for the management of mild to severe pain.
-A10BA03,
 C03CC02,For the treatment of hypertension.
 N06AB02,For the treatment of depression.
 N05CX02,"For the treatment of insomnia, and as a sedative and muscle relaxant."
@@ -7512,8 +7424,6 @@ N06AX24,"Vilazodone is approved for treatment of major depressive disorder.[Labe
 N07XX10,Investigated for use/treatment in multiple sclerosis.
 L03AX17,Sipuleucel-T is an autologous cellular immunotherapy indicated for the treatment of asymptomatic or minimally symptomatic metastatic castrate resistant (hormone refractory) prostate cancer. 
 C05BB01,"For the treatment of patients with esophageal varices that have recently bled, to prevent rebleeding."
-N01AX13,
-N01AX63,
 D04AA02,"Indicated for the treatment of allergic conditions, symptomatic relief of hypersensitivity reaction, and treatment of pruritic skin disorders."
 R06AC01,"Indicated for the treatment of allergic conditions, symptomatic relief of hypersensitivity reaction, and treatment of pruritic skin disorders."
 B02AB01,For prophylactic use to reduce perioperative blood loss and the need for blood transfusion in patients undergoing cardiopulmonary bypass in the course of coronary artery bypass graft surgery who are at an increased risk for blood loss and blood transfusion.
@@ -7562,22 +7472,17 @@ A02AC01,For relief of heartburn and acid indigestion. May also be used as a nutr
 A12AA04,For relief of heartburn and acid indigestion. May also be used as a nutritional supplement or to treat hypocalcemia. 
 A11GB01,For relief of heartburn and acid indigestion. May also be used as a nutritional supplement or to treat hypocalcemia. 
 M01AC05,"For the treatment of acute mild to moderate pain, as well as pain and inflammation of the joints caused by certain types of rheumatic diseases."
-C01BA04,
 S01AB05,For the treatment bacterial infections.
 J01ED08,For the treatment bacterial infections.
 G01AE10,For the treatment bacterial infections.
-G03AA10,
-G03AB06,
 M01AB16,"Aceclofenac is indicated for the relief of pain and inflammation in osteoarthritis, rheumatoid arthritis and ankylosing spondylitis. "
 M02AA25,"Aceclofenac is indicated for the relief of pain and inflammation in osteoarthritis, rheumatoid arthritis and ankylosing spondylitis. "
 N02AB01,"For the treatment of all types of severe pain, such as postoperative, cancer, kidney stones and fractures."
 N02AG02,"For the treatment of all types of severe pain, such as postoperative, cancer, kidney stones and fractures."
-R03DX06,
 R03CC63,Ambroxol is indicated for secretolytic therapy in bronchoplmonary disease with abnormal mucus secretion and transport. It allows the mucus to be more easily cleared and ease a patient's breathing.
 R05CB06,Ambroxol is indicated for secretolytic therapy in bronchoplmonary disease with abnormal mucus secretion and transport. It allows the mucus to be more easily cleared and ease a patient's breathing.
 A03AD02,"Drotaverine is used to alleviate gastrointestinal and genitourinary smooth muscle spasms, such as cholecystitis and gallbladder disorders.[L22689]"
 M09AB01,Chymopapain is indicated for the development of chemonucleolysis which is used for the digestion of the nucleus pulposus in patients with disc herniation confirmed by myelography.[A32687] A disc herniation occurs when the outer portion of the spinal disc breaks down and the inner portion (nucleus pulposus) leaks out pressing surrounding nerves and leading to irradiating pain.[L2496] The chemonucleolysis is a non-surgical treatment that involves the injection of an enzyme to dissolve the nucleus pulposus.[L2482]
-N05CM07,
 B01AB09,"Indicated for the prophylaxis of post-operative deep venous thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients undergoing elective hip replacement surgery [FDA Label]."
 A11CA02,"Beta-carotene is FDA approved to be used as a nutrient supplement and to be even added in infant formula as a source of vitamin A.[L2191] It is also approved to be used as a color additive for food products,[L2192] drugs (with the label of ""only as a color additive"")[L2193] and cosmetics.[L2194]
 
@@ -7589,8 +7494,6 @@ A16AA06,"Betaine is indicated for the treatment of homocystinuria to decrease el
 A09AB02,"Betaine is indicated for the treatment of homocystinuria to decrease elevated homocysteine blood levels. Included within the category of homocystinuria are deficiencies or defects in: 1. cystathionine beta-synthase (CBS), 2. 5,10-methylenetetrahydrofolate reductase (MTHFR), 3. cobalamin cofactor metabolism (cbl). "
 S01AD08,"Indicated for the local treatment of cytomegalovirus (CMV) retinitis in patients with acquired immunodeficiency syndrome (AIDS), when other therapy has been ineffective or is considered unsuitable [FDA Label, L1428]."
 A16AB06,For the treatment of congenital sucrose-isomaltase deficiency (CSID).
-C02DG01,
-C02LX01,
 S01GA02,"Tetryzoline is indicated for the temporary relief of discomfort and redness of the eye due to minor eye irritations as monotherapy [L32579] or in combination with other eye lubricants and anti-irritants.[L32584, L32589, L32594]
 
 Tetryzoline is also indicated for decongestion of nasal and nasopharyngeal mucosa.[L32599]"
@@ -7622,7 +7525,6 @@ H05BA03,"Human calcitonin is indicated for the treatment of Paget's disease in t
 M02AB01,"The capsaicin 8% patch is indicated in the treatment of neuropathic pain associated with post-herpetic neuralgia. There are multiple topical capsaicin formulations available, including creams and solutions, indicated for temporary analgesia in muscle and join pain as well as neuropathic pain. "
 N01BX04,"The capsaicin 8% patch is indicated in the treatment of neuropathic pain associated with post-herpetic neuralgia. There are multiple topical capsaicin formulations available, including creams and solutions, indicated for temporary analgesia in muscle and join pain as well as neuropathic pain. "
 A16AA05,For the treatment of acute and chronic hyperammonaemia in patients with N-acetylglutamate synthase (NAGS) deficiency. This enzyme is an important component of the urea cycle to prevent build up of neurotoxic ammonium in the blood. 
-V03AG01,
 A05AA01,"Chenodiol is indicated for patients with radiolucent stones in well-opacifying gallbladders, in whom selective surgery would be undertaken except for the presence of increased surgical risk due to systemic disease or age. Chenodiol will not dissolve calcified (radiopaque) or radiolucent bile pigment stones."
 V03AB20,"Elemental use in copper deficiency [L1823]
 
@@ -7645,7 +7547,6 @@ S01GX05,"Indicated in the treatment of the ocular disorders referred to by the t
 G01AE10,Indicated for use as an adjunctive topical antimicrobial agent to control bacterial infection when used under moist dressings over meshed autografts on excised burn wounds.[label]
 D06BA03,Indicated for use as an adjunctive topical antimicrobial agent to control bacterial infection when used under moist dressings over meshed autografts on excised burn wounds.[label]
 V08CA05,Indicated for use as an organ-specific paramagnetic contrast agent developed for imaging of the hepatobiliary system and detecting lesions in liver and pancreas.
-N05BC04,
 J01XX05,For prophylactic or suppressive treatment of frequently recurring urinary tract infections when long-term therapy is considered necessary.  This drug is not used to treat  infection and should only be used after appropriate eradication of infection with antimicrobial agents.
 A06AH01,Treatment of opioids induced constipation in palliative patients that are inadequately responding to laxative therapy. 
 S01BC10,For the treatment of pain and inflammation associated with cataract surgery.
@@ -7666,34 +7567,18 @@ J05AR16,For the treatment of HIV-1 infection in conjunction with other antiretro
 J05AX08,For the treatment of HIV-1 infection in conjunction with other antiretrovirals.
 A16AX03,"Adjunctive therapy for the management of chronic urea cycle disorders due to deficiencies in carbamylphosphate (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase. it is indicated in all neonatal- onset efficiency presenting within the first 28 days of life. Also indicated in patients with late-onset, presenting after the first month of life with a history of hyperammonemic encephalopathy.  "
 D01AC09,"Sulconazole solution 1.0% is indicated for the treatment of tinea cruris and tinea corporis caused by Trichophyton rubrum, Trichophyton mentagrophytes, Epidermophyton floccosum, and Microsporum canis; and for the treatment of tinea versicolor. Effectiveness has not been proven in tinea pedis (athlete’s foot)."
-J01ED04,
-G01AE10,
 B01AB10,Tinzaparin is used for the prevention of postoperative venous thromboembolism in patients undergoing orthopedic surgery and in patients undergoing general surgery who are at high risk of developing postoperative venous thromboembolism. It is also used for the treatment of deep vein thrombosis and/or pulmonary embolism. It is indicated for use in preventing clot formation in indwelling intravenous lines for hemodialysis.
 G04BX16,"Tiopronin is indicated for the prevention of kidney stone formation in patients with severe homozygous cystinuria consisting of a urinary cystine concentration greater than 500 mg/day, and who have failed treatment with non-pharmacological measures of increased fluid intake, decreased sodium and protein intake, and urine alkalinization."
 A16AX12,Trientine is a copper chelator used in the treatment of Wilson's disease as an alternative to D-penicillamine. It tends to be used in patients who are experiencing serious adverse effects from penicillamine therapy or intolerance of penicillamine. 
 L02AE04,Triptorelin is indicated for the palliative treatment of advanced prostate cancer.
 S01EE02,For the lowering of intraocular pressure in patients with open-angle glaucoma or ocular hypertension who are intolerant of other intraocular pressure lowering medications or insufficiently responsive (failed to achieve target IOP determined after multiple measurements over time) to another intraocular pressure lowering medication.
-A05AX02,
-M01AX04,
-M02AA08,
-H03BX02,
-C04AX32,
-N03AX03,
 M01AH04,Used for short term perioperative pain control.
-L01XD06,
 D08AE04,"Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers.  It is also used in health care settings in surgical scrubs and personnel hand washes."
 D09AA06,"Triclosan is used in a variety of common household products, including soaps, mouthwashes, dish detergents, toothpastes, deodorants, and hand sanitizers.  It is also used in health care settings in surgical scrubs and personnel hand washes."
-J01BA02,
-J01BA52,
-G01AX17,
 P01AC01,"Diloxanide is used alone as a primary agent in the treatment of asymptomatic (cyst passers) intestinal amebiasis caused by Entamoeba histolytica. Diloxanide may also be used concurrently, or sequentially, with other agents such as the nitroimidazoles (eg. metronidazole) in the treatment of invasive or extraintestinal forms of amebiasis.
 "
-B01AA08,
 J01CE04,"For treatment of infection (Respiratory, GI, UTI and meningitis) due to E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, nonpenicillinase-producing N. gononhoeae, H. influenzae, staphylococci, streptococci including streptoc"
 R05DB11,For the treatment of cough.
-N02BA75,
-N02BA55,
-N02BA05,
 J01EE04,For the treatment of bacterial infection.
 J01EC03,For the treatment of bacterial infection.
 R06AX05,"Used to relieve nasal congestion and in eye drops, usually in combination with naphazoline, to relieve the symptoms of allergic conjunctivitis."
@@ -7917,82 +7802,13 @@ When used in combination with [DB11613] as the combination product Epclusa, sofo
 
 Resistance: Reduced susceptibility to sofosbuvir has been associated with the NS5B substitution mutation S282T [A19634]."
 L01XC15,Obinutuzumab is used as a combination treatment with chlorambucil to treat patients with untreated chronic lymphocytic leukemia.
-R06AE04,
-A02AD02,
-A02AF01,
-R05CB09,
-M01AA06,
-C04AA01,
-G01AF07,
-G01AF20,
-D01AC05,
-R05DB04,
-V08AC02,
-V08AC06,
-V08AB04,
-V08AA03,
 C04AC03,"Indicated as a dietary supplement for the source of niacin. Has been investigated for potential beneficial effects on serum lipids. In Europe, inositol hexanicotinate is indicated as a patented drug known as Hexopal, which is therapeutically indicated for the symptomatic relief of severe intermittent claudication and Raynaud’s phenomenon. "
-C02CA02,
-M01AE10,
-C04AX28,
-M01AE13,
-R03AC06,
-R03CC05,
-G01AX16,
-A01AB12,
-A10BB04,
-N02BG03,
 G02AD03,"Indicated for the softening and dilatation of the cervix uteri prior to transcervical, intrauterine operative procedures in the first trimester of pregnancy or facilitating therapeutic termination of pregnancy in patients in the second trimester of gestation."
-R02AB03,
-N02CX05,
-D07XB03,
-D07AB07,
-D07CB02,
-D07AC05,
-D07CC06,
-D07BC03,
-S01CA04,
-D07XC05,
-H02AB03,
-C05AA08,
-J01MB07,
-P02CA05,
-N02BG04,
-A03BB04,
-R03BX01,
-R03DX03,
-C08EA01,
-M01AE05,
-C10AB09,
-M02AA06,
-C01CA51,
-C01CA01,
-N05BX03,
-N01BB07,
-N01BB57,
-R07AB04,
-R05CB04,
-M03BX09,
-J04AB06,
-B01AC01,
 C05CA03,"Diosmin is used over-the-counter alone or with ingredients such as [hesperidin] and [diosmetin] to support vein and capillary function.[L32823,L32848]"
 C05CA53,"Diosmin is used over-the-counter alone or with ingredients such as [hesperidin] and [diosmetin] to support vein and capillary function.[L32823,L32848]"
-N06AA18,
-N04AA08,
-R01AA02,
-N05AA06,
 N03AA04,"Created for the treatment for epilepsy, with the intent of creating an antiepileptic with less sedative properties than phenobarbital. 
 "
-R05DB21,
-R05DB03,
 B02BX03,No approved indications. Batroxobin is a defibrongenating agent which has been observed to reduce fibrinogen levels and thus reduce clot risk when used intravenously.
-D04AA34,
-R06AA06,
-R06AA56,
-J01DB02,
-N01BB58,
-N01BB08,
-L01BC04,
 N03AX30,"Has been used in the management of epilepsy and epilepsy related behavioural disorders.  It was used for generalised tonic-clonic seizures, and was not effective for absence seizures.
 
 More recently focus has shifted to the use of beclamide in behavioural disorders. In mentally handicapped epileptic patients it has been found to decrease anxiety, antisocial and demanding behaviours, and impulsivity. Mood stabilizing effects were also noted. [2]
@@ -8001,16 +7817,12 @@ Additionally, due to its effects on monoamines, beclamide may have a potential p
 B02BX02,"Indicated for capillary and parenchymal hemorrhage (trauma, tonsillectomy, during surgery), intestinal bleeding, and thrombocytopenic purpura."
 S01ED06,Used in the management of open angle glaucoma. PMID: 12480285. 
 N05BB02,Captodiame is indicated for the treatment of anxiety. 
-C03DA02,
-N06AA15,
 N05CD09,Brotizolam is indicated for 2-4 weeks in the treatment of severe or debilitating insomnia. 
 A03FA04,"Bromopride in indicated in the treatment of nausea and vomiting, including PONV (post-operative nausea and vomiting), gastroesophageal reflux disease (GERD/GORD), as well as endoscopy preparation and radiographic studies of the GI tract. "
 R05CB02,"Bromohexine is used alone or with other ingredients such as [diphenhydramine], [dextromethorphan], and [guaifenesin] to reduce mucus viscosity and clear mucus in conditions associated with mucus hypersecretion, including the common cold, influenza, respiratory tract infections, or other conditions.[L29975,L24819,L33060]"
 A06AB52,Bisacodyl is indicated to relieve occasional constipation and irregularity.[L13362]
 A06AB02,Bisacodyl is indicated to relieve occasional constipation and irregularity.[L13362]
 A06AG02,Bisacodyl is indicated to relieve occasional constipation and irregularity.[L13362]
-N05BD01,
-A10BX06,
 C09XA54,"Aliskiren is used for the treatment of hypertension in children above 6 years and adults.[L13994] This drug may also be used in conjunction with antihypertensives such as calcium channel blockers and thiazides in products form to provide additional blood pressure control.[L14168,L14171]"
 C09XA53,"Aliskiren is used for the treatment of hypertension in children above 6 years and adults.[L13994] This drug may also be used in conjunction with antihypertensives such as calcium channel blockers and thiazides in products form to provide additional blood pressure control.[L14168,L14171]"
 C09DX02,"Aliskiren is used for the treatment of hypertension in children above 6 years and adults.[L13994] This drug may also be used in conjunction with antihypertensives such as calcium channel blockers and thiazides in products form to provide additional blood pressure control.[L14168,L14171]"
@@ -8141,7 +7953,6 @@ Ibrutinib is indicated for the treatment of chronic lymphocytic leukemia (CLL) w
 Ibrutinib is indicated for the treatment of patients with Waldenstrom's Macroglobulinemia (WM).[FDA label] WM, also called lymphoplasmacytic lymphoma, is a type of non-Hodgkin lymphoma in which the cancer cells make large amounts of macroglobulin. The macroglobulin is a monoclonal protein that corresponds to the type of IgM antibodies and the unrestricted formation of this protein causes typical symptoms such as excessive bleeding and effects in vision and nervous system.[L1934]"
 L01XX47,"Idelalisib is indicated in the treatment of chronic lymphocytic leukemia (CLL), relapsed follicular B-cell non-Hodgkin lymphoma (FL), and relapsed small lymphocytic lymphoma (SLL). For the treatment of relapsed CLL, it is currently indicated as a second-line agent in combination with rituximab in patients for whom rituximab alone would be considered appropriate therapy due to other co-morbidities, while in the treatment of FL and SLL it is intended to be used in patients who have received at least two prior systemic therapies."
 C10AD06,Used in the treatment of hyperlipidemias (abnormally elevated levels of any or all lipids and/or lipoproteins in the blood).
-D01AE16,
 G02CX01,"Atosiban is indicated for use in delaying imminent pre-term birth in pregnant adult women with: 
 
 - regular uterine contractions of at least 30 s duration at a rate of at least 4 per 30 min
@@ -8154,9 +7965,7 @@ N03AX24,"When used in combination with delta-9-tetrahydrocannabinol as the produ
 Due to the need for confirmatory studies to verify the clinical benefit coupled with the promising nature of the clinical evidence, Sativex was also given a Notice of Compliance with Conditions (NOC/c) by Health Canada for the following indications: 
 1) as adjunctive treatment for the symptomatic relief of neuropathic pain in adult patients with multiple sclerosis; 
 2) as adjunctive analgesic treatment in adult patients with advanced cancer who experience moderate to severe pain during the highest tolerated dose of strong opioid therapy for persistent background pain [L886]."
-J01DC12,
 L01XE28,Ceritinib is a kinase inhibitor indicated for the treatment of patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. This indication is approved under accelerated approval based on tumor response rate and duration of response. An improvement in survival or disease-related symptoms has not been established. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
-C10AB08,
 J05AR09,"Cobicistat is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. It is not interchangeable with ritonavir to increase systemic exposure of darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir due to lack of exposure data. The use of cobicistat is not recommended with darunavir 600 mg twice daily, fosamprenavir, saquinavir or tipranavir. Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain cobicistat interactions. Cobicistat and ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications."
 J05AR15,"Cobicistat is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. It is not interchangeable with ritonavir to increase systemic exposure of darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir due to lack of exposure data. The use of cobicistat is not recommended with darunavir 600 mg twice daily, fosamprenavir, saquinavir or tipranavir. Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain cobicistat interactions. Cobicistat and ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications."
 J05AR14,"Cobicistat is a CYP3A inhibitor indicated to increase systemic exposure of atazanavir or darunavir (once daily dosing regimen) in combination with other antiretroviral agents in the treatment of HIV-1 infection. It is not interchangeable with ritonavir to increase systemic exposure of darunavir 600 mg twice daily, fosamprenavir, saquinavir, or tipranavir due to lack of exposure data. The use of cobicistat is not recommended with darunavir 600 mg twice daily, fosamprenavir, saquinavir or tipranavir. Complex or unknown mechanisms of drug interactions preclude extrapolation of ritonavir drug interactions to certain cobicistat interactions. Cobicistat and ritonavir when administered with either atazanavir or darunavir may result in different drug interactions when used with concomitant medications."
@@ -8358,9 +8167,6 @@ J05AP09,"Dasabuvir, in combination with [DB09296], [DB09297], and [DB00503] (as 
 J05AP52,"Dasabuvir, in combination with [DB09296], [DB09297], and [DB00503] (as Viekira Pak) is indicated for the treatment of patients with HCV genotype 1a with [DB00811] or genotype 1b without [DB00811] including those with compensated cirrhosis [FDA Label]."
 N06AX09,Indicated for the treatment of clinical depression.
 N06AB09,"Etoperidone has been studied for the treatment of depression[T47], tremors in Parkinson, extrapyramidal symptoms[L1041] and male impotence[L1042]. It is not certain if it was ever approved and marketed but its current status is withdrawn."
-S01GA06,
-S01GA56,
-C01CA08,
 C04AX10,"By the WHO, moxisylyte is indicated for the symptomatic management of sequelae of cerebral infarction or hemorrhage.[T91] The cerebral infarction is characterized by the blockage of the artery either by the formation of a thrombus or an embolus.[A31644] 
 
 On the other hand, the FDA classified moxisylyte for the reversal of phenylephrine-induced mydriasis in patients who have narrow anterior angles and are at risk of developing an acute attack of angle-closure glaucoma.[L1172]  Closed-angle glaucoma is caused by the contact between the iris and the trabecular meshwork. This contact will damage the aqueous outflow by the meshwork thus, increasing eye pressure and producing the symptoms of glaucoma.[A31645] Mydriasis is referred to the dilatation of the pupils and this standard body function is known to be a trigger factor for the development of acute closed-angle glaucoma.This risk is explained by the generation of a pupillary block, which is the contact between the pupillary margins and the lens, thus preventing flow from the aqueous humor to the anterior chamber and followed by an increased pressure gradient.[L1173] 
@@ -8371,7 +8177,6 @@ G04BE06,"By the WHO, moxisylyte is indicated for the symptomatic management of s
 On the other hand, the FDA classified moxisylyte for the reversal of phenylephrine-induced mydriasis in patients who have narrow anterior angles and are at risk of developing an acute attack of angle-closure glaucoma.[L1172]  Closed-angle glaucoma is caused by the contact between the iris and the trabecular meshwork. This contact will damage the aqueous outflow by the meshwork thus, increasing eye pressure and producing the symptoms of glaucoma.[A31645] Mydriasis is referred to the dilatation of the pupils and this standard body function is known to be a trigger factor for the development of acute closed-angle glaucoma.This risk is explained by the generation of a pupillary block, which is the contact between the pupillary margins and the lens, thus preventing flow from the aqueous humor to the anterior chamber and followed by an increased pressure gradient.[L1173] 
 
 Moxisylyte is also approved in France as the first drug for the treatment of impotence.[A31647]"
-C02CA03,
 M04AX02,For the treatment of chronic gout in adult patients refractory to conventional therapy.
 R05DA08,"Pholcodine is indicated as a cough suppressant for the temporary relief of non-productive dry cough. It is stated to present a required label indication of ""temporary relief of dry cough.""[L1200] Cough is the respiratory movement that occurs after an irritation signal is transmitted to the central nervous system and further stimulates the medulla oblongata. This stimulation causes a motor output that is sent through motoneurons to the respiratory muscles. A non-productive cough is a type of cough characterized by the absence of sputum, and it has a large inspiration that will cause continuous coughing."
 N06BX03,"Indicated in adult patients suffering from myoclonus of cortical origin, irrespective of aetiology, and should be used in combination with other anti-myoclonic therapies [L1125]."
@@ -8440,7 +8245,6 @@ In postmenopausal women, strontium ranelate can also reduce the risk of vertebra
 A06AB08,Indicated for cleansing of the colon as a preparation for colonoscopy in adults [FDA Label].
 A06AB58,Indicated for cleansing of the colon as a preparation for colonoscopy in adults [FDA Label].
 C01EB09,"The diet supplements containing ubidecarenone are indicated, as stated in the product label, to assist individuals with cardiovascular complaints including congestive heart failure and systolic hypertension. In the product, ubidecarenone is used to increase the cardiac input as well as for the prevention of several other diseases like Parkinson, fibromyalgia, migraine, periodontal disease and diabetes, based on preclinical studies.[L1064] It is important to highlight that these products are not FDA approved and it is recommended to use under discretion."
-A03BB05,
 A07DA06,For the treatment of irritable bowel syndrome with diarrhea (IBS-D).
 R03DA11,"Indicated for the treatment of chronic obstructive pulmonary disease (COPD), bronchial asthma and pulmonary disease with spastic bronchial component."
 P01BE03,Artesunate is indicated for the initial treatment of severe malaria in adult and pediatric patients.[L14099]
@@ -8609,58 +8413,38 @@ C02AA03,"Rauwolfia alkaloids are indicated in the treatment of hypertension [L16
 "
 C02LA08,"Rauwolfia alkaloids are indicated in the treatment of hypertension [L1614]. Rauwolfia alkaloids have been used for relief of symptoms in agitated psychotic states such as schizophrenia; however, use as antipsychotics and sedatives have been replaced with the use of more effective, safer agents [L1614].
 "
-V08AD03,
-L02AA02,
-V10XX01,
-G03FA09,
 S01KX01,No therapeutic indications. 
 B06AA04,No therapeutic indications. 
-V09CX02,
-H02AB15,
 G03FA10,Norgestrel in combination with ethinyl estradiol is indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
 G03FB01,Norgestrel in combination with ethinyl estradiol is indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
 G03AA06,Norgestrel in combination with ethinyl estradiol is indicated for the prevention of pregnancy in women who elect to use this product as a method of contraception.
-B05BA01,
 B05XA08,"Injection, USP 40 mEq is indicated as a source of sodium, for addition to large volume intravenous fluids to prevent or correct hyponatremia in patients with restricted or no oral intake. It is also useful as an additive for preparing specific intravenous fluid formulas when the needs of the patient cannot be met by standard electrolyte or nutrient solutions. Sodium acetate and other bicarbonate precursors are alkalinising agents, and can be used to correct metabolic acidosis, or for alkalinisation of the urine."
 V09DB05,"Technetium 99m sulfur colloid is indicated as a diagnostic agent in adults for the following tests: localization of lymph nodes draining a primary tumor in patients with breast cancer or malignant melanoma; and evaluation of peritoneo-venous (LeVeen) shunt patency. It is indicated in both adult and pediatric patients for: imaging areas of functioning reticuloendothelial cells in the liver, spleen and bone marrow; and studies of esophageal transit and gastroesophageal reflux, and detection of pulmonary aspiration of gastric contents."
 V09IX06,"18F is used as a bone imaging agent to define areas of altered osteogenic activity.  It has been indicated for back pain  and otherwise unexplained bone pain, child abuse, abnormal radiographic or laboratory findings, osteomyelitis, trauma, inflammatory and degenerative arthritis, avascular necrosis. Osteonecrosis of the mandible, condylar hyperplasia, and metabolic bone disease are also among the indications for fluoride imaging. "
-V08AC07,
 A12CC01,"Magnesium chloride  is used in several medical and topical (skin related) applications. Magnesium chloride usp, anhydrous uses as electrolyte replenisher, pharmaceutic necessity for hemodialysis and peritoneal dialysis fluids.
 "
 B05XA11,"Magnesium chloride  is used in several medical and topical (skin related) applications. Magnesium chloride usp, anhydrous uses as electrolyte replenisher, pharmaceutic necessity for hemodialysis and peritoneal dialysis fluids.
 "
 H03BC01,No current FDA- or EMA-approved therapeutic indications.
 V09FX02,Administration of Sodium Iodide I 123 Capsules is indicated as a diagnostic procedure to be used in evaluating thyroid function and/or morphology.
-V04CJ02,
 V09AX01,Pentetate Indium Disodium In 111 is recommended for use in radionuclide cisternography.
-V09EX01,
-V09CX01,
 A06AG01,Used to treat constipation or to clean the bowel before a colonoscopy [FDA Label].
 A06AD17,Used to treat constipation or to clean the bowel before a colonoscopy [FDA Label].
 B05XA09,Used to treat constipation or to clean the bowel before a colonoscopy [FDA Label].
-A10AD02,
-A10AC02,
-A10AE02,
-A10AB02,
 A06AX01,"It is used as a solvent, emollient, pharmaceutical agent, and sweetening agent."
 A06AG04,"It is used as a solvent, emollient, pharmaceutical agent, and sweetening agent."
 A06AD13,indicated for bowel cleansing prior to colonoscopy or barium enema X-ray examination.
 A12CA02,indicated for bowel cleansing prior to colonoscopy or barium enema X-ray examination.
-V09AB01,
 A02AA01,Used as an over the counter antacid [L593].
 V03AE04,Used as an over the counter antacid [L593].
 A06AD01,Used as an over the counter antacid [L593].
-B05XA15,
 A12CD02,Sodium monofluorophosphate is indicated for the treatment of cavities
 A01AA02,Sodium monofluorophosphate is indicated for the treatment of cavities
-V08AB06,
 R06AX18,"For the relief of symptoms associated with seasonal allergic rhinitis such as sneezing, rhinorrhea, pruritus, lacrimation, and nasal congestion."
 D02BA02,As an active ingredient in sunscreens and lip balms. Used for protection against damaging effects of sun rays. 
 V10BX01,Strontium-89 Chloride Injection is indicated as a paliative for the relief of bone pain in patients with skeletal metastases. It is impotant to confirm the presence of bone metastases prior the beginning of therapy.[A31264]
-V08CA07,
 V09IX04,"The uptake of 18F-FDG by tissues is a marker for the tissue uptake of glucose, which in turn is closely correlated with certain types of tissue metabolism.
 Fludeoxyglucose F 18 Injection is indicated in positron emission tomography (PET) imaging for assessment of abnormal glucose metabolism to assist in the evaluation of malignancy in patients with known or suspected abnormalities found by other testing modalities, or in patients with an existing diagnoses of cancer. "
-V08CB01,
 V04CX05,"Urea-13C is indicated for use in the qualitative detection of urease associated with Helicobacter pylori in the human stomach and as an aid in the initial diagnosis and post-treatment monitoring of Helicobacter pylori infection in adult patients. The test may be used for monitoring treatment if used at least four (4) weeks following completion of therapy. For these purposes, the system utilizes an Infrared Spectrophotometer for the measurement of the ratio of 13CO2 to 12CO2 in breath samples."
 D11AX06,Mequinol is currently primarily available only as an active ingredient in combination products combined with tretinoin that are indicated for the treatment of solar lentigines and related hyperpigmented lesions resulting from chronic sun exposure [FDA Label].
 D11AX11,"Hydroquinone is used as an OTC topical lightening agent for disorders of hyperpigmentation including melasma, post-inflammatory hyperpigmention, sunspots and freckles. "
@@ -8671,8 +8455,6 @@ V04CK01,"Indicated for the stimulation of:
 - gastrin secretion to aid in the diagnosis of gastrinoma [FDA Label].
 
 - pancreatic secretions to facilitate the identification of the ampulla of Vater and accessory papilla during endoscopic retrograde cholangiopancreatography (ERCP) [FDA Label]."
-B06AA02,
-B06AA10,
 L01XC22,Necitumumab is approved for use in combination with cisplatin and gemcitabine as a first-line treatment for metastatic squamous non-small cell lung cancer (NSCLC). It is not indicated for treatment of non-squamous NSCLC. 
 B05XA14,"Sodium glycerophosphate is indicated for use as a source of phosphate in total parenteral nutrition [FDA Label]. It is used in combination with amino acids, dextrose, lipid emulsions, and other electrolytes."
 A10AD06,Insulin degludec is indicated to improve glycemic control in patients 1 year of age and older with diabetes mellitus.
@@ -8683,22 +8465,8 @@ J06AA06,Inactivated rabies virus antigen B is indicated for pre- and post-exposu
 J07BH01,"Rotarix is indicated for prevention of rotavirus gastroenteritis caused by G1, G3, G4, and G9 types in infants aged 6-24 weeks [FDA Label].
 
 Rotateq is indicated for the prevention of rotavirus gastroenteritis caused by G1, G2, G3, G4, and G9 types in infants aged 6-32 weeks [L1116]."
-J06AA06,
-J07BD53,
-J07BD54,
-J07BD52,
-J07BJ01,
-J07BJ51,
-J07BD51,
 V01AA03,"Dermatophagoides farinae extract  is  an  allergen  extract  indicated  as  immunotherapy  for  house   dust   mite   (HDM)-induced   allergic   rhinitis,   with   or   without   conjunctivitis,   confirmed   by   in   vitro testing   for   IgE   antibodies   to   Dermatophagoidesfarinae  house dust  mites,  or  skin  testing  to  licensed  house  dust  mite  allergen  extracts. ODACTRA is approved for use in adults 18 through 65 years of age"
 V01AA03,"Dermatophagoides pteronyssinus is an allergen extract indicated as immunotherapy for house dust mite (HDM)-induced allergic rhinitis, with or without conjunctivitis, confirmed by in vitro testing for IgE antibodies to Dermatophagoides pteronyssinus house dust mites, or skin testing to licensed house dust mite allergen extracts. Dermatophagoides pteronyssinus is approved for use in adults 18 through 65 years of age. "
-A06AC03,
-A06AC53,
-J07AM51,
-J07AM01,
-J07AM52,
-J07AF01,
-J07AP03,
 J07BL01,"Yellow Fever Vaccine is indicated for active immunization for the prevention of yellow fever in persons 9 months of age and older in the following categories:
 
 1. Persons Living in or Traveling to Endemic Areas: While the actual risk for contracting yellow fever during travel is probably low, variability of itineraries, behaviors and seasonal incidence of disease make it difficult to predict the actual risk for a given individual living in or traveling to a known endemic or epidemic area. Greater risk is associated with living in or traveling to areas of South America and Africa where yellow fever infection is officially reported at the time of travel and with traveling outside the urban areas of countries that do not officially report the disease but that lie in a yellow fever endemic zone.
@@ -8706,7 +8474,6 @@ J07BL01,"Yellow Fever Vaccine is indicated for active immunization for the preve
 2. Persons Travelling Internationally Through Countries with Yellow Fever: Some countries require an individual to have a valid International Certificate of Vaccination or Prophylaxis (ICVP) if the individual has been in countries either known or thought to harbor yellow fever virus. The certificate becomes valid 10 days after vaccination with Yellow Fever Vaccine.
 
 3. Laboratory Personnel: Laboratory personnel who handle virulent yellow fever virus or concentrated preparations of the yellow fever vaccine virus strains may be at risk of exposure by direct or indirect contact or by aerosols."
-A07FA02,
 A06AA01,Mineral oil is not considered an active pharmacological ingredient in pharmaceutical preparations and so has no official indication. It is typically present in topical formulations as an emollient and occlusive agent [T182].
 A06AA51,Mineral oil is not considered an active pharmacological ingredient in pharmaceutical preparations and so has no official indication. It is typically present in topical formulations as an emollient and occlusive agent [T182].
 A12CE01,Indicated for use as a nutritional supplement. 
@@ -8717,7 +8484,6 @@ R02AA06,"Typically employed as the cetylpyridinium chloride salt, this compound 
 D09AA07,"Typically employed as the cetylpyridinium chloride salt, this compound is commonly used as an active ingredient in various over-the-counter mouthwashes, toothpastes, lozenges, and mouth sprays where it is generally indicated for antiseptic actions, gingivitis and plaque prevention, as well as action or prevention against some other oropharyngeal bacterial infections [A24813, L2754, L2755]."
 P03AX05,"Dimethicone is a colorless liquid with both cosmetic and therapeutic uses. It is used in topical creams and ointments to help distribute the active ingredients. Dimethicone is used as an anti-foaming agent, a hair and skin conditioner, and in the treatment of head lice and, as an anti-bloating/anti-flatulence agent [L1765], [L1772]."
 S01KA02,"Used as an ophthalmic protectant and lubricant, in artificial tears, and as a diagnostic aid (contact lens procedures; gonioscopy).[L1805]"
-D08AL01,
 D10AX01,"- Indicated for the control of minor hemorrhage during dental restorative procedures.
 - Indicated to reduce underarm perspiration."
 D10AX02,"Contemporary therapeutic uses for resorcinol primarily revolve around the use of the phenol derivative as an active ingredient in topical antiseptics [L2745, L2744, L2727, F61] or as topical antibacterial skin treatment products for conditions like acne, seborrheic dermatitis, eczema, and others [L2746, L2745, L2744, L2727, F61]."
@@ -8800,16 +8566,10 @@ S01FA05,"Indicated as an overdose-rescuing agent in combination with hydrocodone
 Indicated for the induction of mydriasis in ophthalmic solutions. "
 S01JA02,"Indicated as a diagnostic agent in routine ocular examinations or when superficial conjunctiva or corneal tissue change is suspected, and as an aid in the diagnosis of keratoconjunctivitis sicca, keratitis, abrasions or corrosions as well as the detection of foreign bodies."
 R05DB05,"Indicated as a cough suppressant to relieve cough caused by the common cold, flu, bronchitis, and sinusitis [A32160]. "
-A11HA32,
-B03BA04,
-B03AB09,
 A06AC06,"Solutions containing methyl cellulose are used as substitute for tears or saliva if the natural production of these fluids is disturbed. It is also used or constipation, diverticulosis, hemorrhoids and irritable bowel syndrome. Used in the manufacture of capsules in nutritional supplements. Its edible and nontoxic properties provide a vegetarian alternative to the use of gelatin."
 D04AA01,Thozylamine is indicated for use in the symptomatic control of allergic rhinitis or other upper respiratory allergic symptoms [FDA Label]. It is typically a part of combination over the counter products.
 R06AC06,Thozylamine is indicated for use in the symptomatic control of allergic rhinitis or other upper respiratory allergic symptoms [FDA Label]. It is typically a part of combination over the counter products.
 R01AC06,Thozylamine is indicated for use in the symptomatic control of allergic rhinitis or other upper respiratory allergic symptoms [FDA Label]. It is typically a part of combination over the counter products.
-B06AA07,
-D03BA01,
-M09AB52,
 B05AA06,"Gelatin is used for weight loss and for treating osteoarthritis, rheumatoid arthritis, and brittle bones (osteoporosis). Some people also use it for strengthening bones, joints, and fingernails. Gelatin is also used for improving hair condition and to shorten the recovery after exercise and sports-related injury [L2113]. Gelatin is used in preparations of foods, cosmetics, and medicine [L2113].
 
 Plasma volume expander in hypovolaemic shock [L2115]. Haemostatic [L2115].
@@ -8827,11 +8587,7 @@ P03BX01,"Diethyltoluamide, or DEET, is an active ingredient that is predominantl
 B02BC06,"Bovine thrombin is a topical thrombin indicated to aid hemostasis whenever oozing blood and minor bleeding from capillaries and small venules is accessible and control of bleeding by standard surgical techniques (like suture, ligature, or cautery) is ineffective or impractical [FDA Label]. Additionally, topical bovine thrombin can also be used in combination with an absorbable gelatin sponge, USP [FDA Label]."
 B02BD30,"Bovine thrombin is a topical thrombin indicated to aid hemostasis whenever oozing blood and minor bleeding from capillaries and small venules is accessible and control of bleeding by standard surgical techniques (like suture, ligature, or cautery) is ineffective or impractical [FDA Label]. Additionally, topical bovine thrombin can also be used in combination with an absorbable gelatin sponge, USP [FDA Label]."
 B01AD12,"Protein C concentrate is indicated for pediatric and adult patients with severe congenital protein C deficiency for the prevention and treatment of venous thrombosis and purpura fulminans.[L12831] It is also found as a component of some prothrombin complex concentrate (i.e. [Factor IX Complex (Human)]) formulations, such as Kcentra.[L12834]"
-A03CB01,
-S01FA03,
-A03BB03,
 S02AA03,No FDA- or EMA-approved therapeutic indications on its own.
-D10AX04,
 A12AA01,"For use as an over the counter calcium and phosphate supplement, antacid, or a source of calcium and phosphate in toothpaste [FDA Label] [L851]."
 A11GB01,"For use as an over the counter calcium and phosphate supplement, antacid, or a source of calcium and phosphate in toothpaste [FDA Label] [L851]."
 B01AC27,Selexipag is indicated for the treatment of pulmonary arterial hypertension (PAH) to delay disease progression and reduce risk of hospitalization.
@@ -8843,25 +8599,13 @@ L03AX02,"Roquinimex is investigated to be used as a treatment of a number of can
 
 As well, roquinimex is researched to be used as adjuvant therapy after bone marrow transplantation in cases of acute leukemia. "
 J01DB11,Was used for the treatment of bacterial infections.
-D01AE06,
-N01AX05,
 A04AD54,No approved therapeutic indications on its own. 
 A04AD04,No approved therapeutic indications on its own. 
-N01AB02,
-P02DX02,
-P02CA06,
 P02CX03,"Moxidectin is indicated for the treatment of river blindness, also called onchocerciasis, in patients aged 12 years and older. River blindness is caused by a parasitic worm _Onchocerca volvulus_ and it is manifested as severe itching, disfiguring skin conditions and visual impairment caused by the worm's larvae.[L2971] 
 
 The transmission of _Onchocerca volvulus_ is performed person to person by black flies that breed in fast-flowing rivers in sub-Saharan Africa, Yemen and South and Central America. The larvae released by the adult parasite invade skin and eyes where they can produce the severe disease manifestations.[L2971]"
-J01RA08,
-J01FA05,
-P02BB01,
-D06AX10,
 V03AB02,Used to reverse opioid overdose.
-S01AA15,
-L01XE22,
 M04AB05,"For use, in combination with a xanthine oxidase inhibitor, for the treatment of hyperuricemia associated with gout in patients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone."
-D08AA02,
 A16AB14,"Sebelipase alfa is a hydrolytic lysosomal cholesteryl ester and triacylglycerol-specific enzyme indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency.[L39337,L39342]"
 L04AC13, Ixekizumab is indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy. 
 D09AA08,Indicated for use as an antiperspirant. 
@@ -8870,7 +8614,6 @@ J05AP54,"Elbasvir, when used in combination with [grazoprevir] as the combinatio
 J05AP10,"Elbasvir, when used in combination with [grazoprevir] as the combination product Zepatier, is indicated for use with or without [ribavirin] for the treatment of chronic HCV genotypes 1 or 4 infection in adults.[L10253]"
 J05AP11,"Grazoprevir is indicated in combination with [DB11574] (as the fixed dose combination product Zepatier) with or without [DB00811] for treatment of chronic HCV genotypes 1a, 1b, or 4 infection in adults. "
 J05AP54,"Grazoprevir is indicated in combination with [DB11574] (as the fixed dose combination product Zepatier) with or without [DB00811] for treatment of chronic HCV genotypes 1a, 1b, or 4 infection in adults. "
-V08CB03,
 V04CH02,This drug was initially used as a kidney function test. The main application of indigo carmine at this time is localizing and visualizing ureteral orifices during cystoscopy and ureteral catheterization procedures [L2215]. 
 L04AA43,Ravulizumab is indicated for the treatment of adult patients with paroxysmal nocturnal hemoglobinuria (PNH) [FDA Label].
 L01XX52,"A BCL-2 inhibitor indicated for the treatment of patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL), with or without 17p deletion, who have received at least one prior therapy [FDA label]."
@@ -8913,11 +8656,7 @@ J05AP56,"Velpatasvir is used in combination therapy with other antiviral medicat
 
 When used in combination with [DB08934] as the combination product Epclusa, Velpatasvir is indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis, or in combination with [DB00811] if associated with decompensated cirrhosis [FDA Label]."
 R06AX28,For the symptomatic relief of nasal and non-nasal symptoms of seasonal allergic rhinitis and perennial allergic rhinitis in patients 2 years of age and older [FDA Label]. Also used for the symptomatic relief of chronic spontaneous urticaria in patients 2 years of age and older.
-L01DB08,
-L01DB04,
-L01DB05,
 G03XA02,"Endometriosis with or without accompanying sterility. Treatment is limited to a single course of 6 months duration per lifetime [L1699, L1700]."
-V08DA03,
 L03AX11,"For use in adults as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in palliative care, for irresectable soft tissue sarcoma of the limbs [FDA Label]. Used in combination with melphalan via mild hyperthermic isolated limb perfusion."
 J07CA08,"Active immunization against hepatitis B virus infection.
 
@@ -8939,15 +8678,10 @@ In areas of low prevalence of hepatitis B, vaccination is strongly recommended i
 * Others: police; fire fighters; armed forces personnel; morticians and embalmers; those who through their work or personal lifestyle may be exposed to the hepatitis B virus.
 * In areas of both low and high prevalence, vaccination should be offered to all young children and neonates at risk, as well as to adult high risk groups."
 L01XD05,"For use in the treatment of patients with advanced squamous cell carcinoma of the head and neck failing standard therapies and who are unsuitable for radiotherapy, surgery, or systemic chemotherapy [FDA Label]."
-M05BC02,
 N04BX04,"Opicapone is indicated as adjunctive therapy in adults with Parkinson’s disease and end-of-dose motor fluctuations or “off” episodes whose symptoms cannot be stabilized on the combination therapy of levodopa and DOPA decarboxylase inhibitor (e.g., carbidopa).[L2343, L13772]"
 J02AC05,"- Indicated for patients 18 years of age and older for the treatment of invasive aspergillosis [FDA Label].
 - Indicated for patients 18 years of age and older for the treatment of invasive mucormycosis [FDA Label], including patients where treatment amphotericin B is inappropriate [L1482]."
-V03AE06,
 A11HA08,Tocofersolan is indicated in vitamin E deficiency caused by digestive malabsorption in pediatric patients with congenital chronic cholestasis or hereditary chronic cholestasis from birth (full term newborns) up to 18 years of age [L2371].
-G03AA14,
-G03FB12,
-G03DB04,
 J04AK06,Indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adult patients when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability [L1407].
 P01BF05,"For the treatment of uncomplicated *Plasmodium falciparum* infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with [DB13941]."
 P01BE05,"For the treatment of uncomplicated *Plasmodium falciparum* infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with [DB13941]."
@@ -8957,18 +8691,11 @@ N07XX05,"Amifampridine is indicated for the symptomatic treatment of Lambert-Eat
 L01CA05,For use as a monotherapy in adults with advanced or transitional cell carcinoma of the urothelial tract after failure of a prior platinum-containing therapy [L2381]. 
 N07XX11,Pitolisant is indicated for the treatment of narcolepsy with or without cataplexy [L1471] and excessive daytime sleepiness in narcolepsy in adult patients.[L8063]
 N07XX08,"Tafamidis is indicated to treat cardiomyopathy of wild type or hereditary transthyretin-mediated amyloidosis in adults.[A189708,A189711,L11280]"
-A02BX14,
 S01EE06,Latanoprostene bunod opthalmic solution is indicated for the reduction of intraocular pressure in patients with open-angle glaucoma or ocular hypertension [FDA Label].
-A03FA09,
-L01AB02,
 A06AH05,For the treatment of opioid-induced constipation [FDA Label].
 L04AD03,Voclosporin is used in combination with a background immunosuppressive regimen for the treatment of lupus nephritis.  Safety has not been established in combination with cyclophosphamide.[L31218]
-A07XA04,
-A10BK05,
 A04AA03,For the prevention of nausea and vomiting induced by cytotoxic therapy and postoperative. 
-J05AX26,
 L01XE51,Acalabrutinib is currently indicated for the treatment of adult patients with Mantle Cell Lymphoma (MCL) who have received at least one prior therapy.[L10241] It has also been recently approved for chronic lymphocytic leukemia and small lymphocytic lymphoma.[L10241]
-V08AB10,
 R07AX31,"Tezacaftor is combined with ivacaftor in one product for the treatment of cystic fibrosis (CF) in patients aged 12 years or older with two copies of the _F508del_ gene mutation or at least one mutation in the CFTR gene that is responsive to this drug.[L6814]
 
 Tezacaftor, when used in combination with ivacaftor and [elexacaftor] in the product Trikafta, is also indicated for the treatment of CF in patients 12 years of age and older that have at least one _F508del_ mutation in the CFTR gene.[L9395]
@@ -8978,7 +8705,6 @@ L01XC28,"Durvalumab is indicated for the treatment of patients with locally adva
 Durvalumab is indicated for the treatment of patients with unresectable Stage III non-small cell lung cancer (NSCLC) whose disease has not progressed following concurrent platinum-based chemotherapy and radiation therapy.[L12621] It is also approved for the treatment of patients with extensive-stage small cell lung cancer (ES-SCLC) in combination with [etoposide] and either [carboplatin] or [cisplatin] as first-line therapy.[L12624]
 
 Durvalumab is indicated as monotherapy used for the treatment of locally advanced, unresectable non-small cell lung cancer (NSCLC) in adults whose tumours express PD-L1 on ≥ 1% of tumour cells and whose disease has not progressed following platinum-based chemoradiation therapy.[L12627]"
-L01XX58,
 L01XE46,"Used in combination with [Binimetinib] in metastatic melanoma with a BRAF V600E or V600K mutation, as detected by an FDA-approved test [L3335]."
 L01XE42,"Kisqali (ribociclib) is a selective cyclin-dependent kinase inhibitor, a class of drugs that help slow the progression of cancer by inhibiting two proteins called cyclin-dependent kinase 4 and 6 (CDK4/6). These proteins, when over-activated, can enable cancer cells to grow and divide too quickly. Targeting CDK4/6 with enhanced precision may play a role in ensuring that cancer cells do not continue to replicate uncontrollably."
 V08DA02,"There are limited therapeutic uses for which galactose is formally indicated. Some predominant indications include (a) the use of galactose to facilitate the construction of structurally and immunologically effective attenuated vaccines [T188, L2633], and (b) the role galactose plays as an essential element in the formation of lactulose - a synthetic disaccharide indicated for the treatment of constipation and/or hepatic encephalopathy (HE); hepatic coma [L2632].
@@ -8988,14 +8714,6 @@ V04CE01,"There are limited therapeutic uses for which galactose is formally indi
 
 Nevertheless, there are many studies looking into a variety of possible uses for galactose, including the use of the monosaccharide sugar for accelerating senescence in mice, rats, and Drosophila [A32853, A32854], the proposed association between galactose in consumed milk and ovarian cancer [A32855, A32856], a possible role in the therapy of focal segmental glomerulosclerosis [A32858], among various others. Regardless, none of these proposed indications have yet been formally elucidated for practical use."
 L01XE48,"Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)–tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy."
-C02AC06,
-A02BD14,
-A02BD15,
-A02BC08,
-R06AX22,
-A11DA03,
-D07AD01,
-D07CD01,
 S01AA16,"Rifamycin is indicated for the treatment of adult patients with travelers' diarrhea caused by noninvasive strains of _E. coli_. The status of the disease should not be complicated by fever or blood in the stool. To prevent drug-resistant bacteria, it is important to mention that the use of rifamycin for this indication should be only done in cases where the infection is proven or strongly suspected to be caused by bacteria.[L4802]
 
 Travallers' diarrhea is very common problem affecting 20-60% of the travellers and it is defined as an increase in frequency of bowel movements to three or more loose stools per day during a trip abroad. This condition is rarely life threatening but in severe cases it can produce dehydration and sepsis. The most common cause of travellers' diarrhea is a pathogen and from the pathogens identified, bacteria is the most common cause followed by norovirus, rotavirus and similar viruses.[A39995]"
@@ -9013,16 +8731,10 @@ J04AB03,"Rifamycin is indicated for the treatment of adult patients with travele
 Travallers' diarrhea is very common problem affecting 20-60% of the travellers and it is defined as an increase in frequency of bowel movements to three or more loose stools per day during a trip abroad. This condition is rarely life threatening but in severe cases it can produce dehydration and sepsis. The most common cause of travellers' diarrhea is a pathogen and from the pathogens identified, bacteria is the most common cause followed by norovirus, rotavirus and similar viruses.[A39995]"
 L01XX60,"Talazoparib is indicated for the treatment of deleterious or suspected deleterious germline BRCA mutated, HER2 negative locally advanced or metastatic breast cancer in adults [FDA Label]."
 L04AC14,"Indicated for modere to severe reactive RA in adult patients who are irresponsive, respond inadequately or present intolerance to disease-modifying anti-rheumatic drugs (DMARDs) or tumor necrosis factor (TNF) antagonists. It is indicated to be used in combination with methotrexate (MTX) or as a monotherapy when there is intolerance to MTX or MTX administration is inappropriate."
-C07AB13,
-J01MA18,
 L04AC12,"Brodalumab has been approved for the treatment of psoriasis vulgaris, psoriatic arthritis, pustular psoriasis and psoriatic erythroderma. "
-C09AA16,
 L01XX54,"Niraparib is indicated for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in complete or partial response to platinum-based chemotherapy"
-M09AX05,
 J05AR20,"Bictegravir is indicated in the management of HIV-1 infection in patients not previously treated with antiretroviral therapy.  Additionally, Bictegravir is indicated in the management of HIV-1 infection in patients who are virologically suppressed (HIV-1 RNA <50 c/mL) on a regular antiretroviral regimen for a minimum of three months without a history of failure in treatment and no known factors associated with the resistance to the individual components of the medication.  It is used in combination with tenofovir and emtricitabine [L1219, L1220]."
 L01XE34,"Tivozanib is approved in the USA for the treatment of relapsed or refractory renal cell carcinoma in adult patients who have undergone two or more systemic therapies.[L32524] In the UK and other countries,  is indicated as first line therapy of adults with advanced renal cell carcinoma (RCC) and VEGFR and mTOR pathway inhibitor-naïve patients after disease progression following one previous treatment with cytokine therapy for advanced disease.[L17180] "
-L04AC15,
-J05AP04,
 L04AA37,"Indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic drugs as monotherapy or in combination with methotrexate."
 P01CC01,Nifurtimox is indicated in pediatric patients under 18 weighing at least 2.5 kg. Continued approval of this drug for this indication is dependent upon confirmatory clinical trial results.[L15361]
 N06AX27,"This drug is indicated in conjunction with an oral antidepressant for the treatment of treatment-resistant depression (TRD) in adults [FDA label].
@@ -9039,21 +8751,15 @@ A10BD24,"Ertugliflozin as a monotherapy is indicated to improve the glycemic con
 The type 2 diabetes mellitus is characterized by insulin resistance in muscle and liver, which results in the elevation of glucose levels in blood, or by presence of insulin deficiency. The insulin resistance is related to genetic factors, obesity, sedentary lifestyle or/and aging. This increase in the blood glucose can cause severe damage to kidney, eyes and vascular system.[A31582]"
 L01XE45,"For use as an extended adjuvant treatment in adult patients with early stage HER2-overexpressed/amplified breast cancer, to follow adjuvant trastuzumab-based therapy [FDA Label]."
 L04AC16,Indicated for the treatment of adults with moderate-to-severe plaque psoriasis who are candidates for systemic therapy or phototherapy.
-V09IB01,
 H02CA02,"Osilodrostat is indicated for the treatment of adult patients with Cushing's disease for whom pituitary surgery is not an option or has not been curative.[L12123,A191850]"
-L01XX64,
 C01CX09,Angiotensin II is a vasoconstrictor indicated for increasing blood pressure in adults with septic or other distributive shock [FDA Label].
 R03BB08,"Revefenacin is indicated as an inhalation solution for the maintenance treatment of patients with chronic obstructive pulmonary disease (COPD).[L4820]
 
 COPD is a growing disease being the third leading cause of death in the US. This disease is characterized by not fully reversible airflow limitation.[L4821]"
 M05BX06,Romosozumab is indicated for the treatment of osteoporosis in post menopausal women at high risk of fractures and also in patients with osteoperosis who are intolerant to other treatments or who have failed in other treatments[L9554].
-B05XB02,
-J01MA17,
 L02BB05,"Indicated for the treatment of patients with non-metastatic, castration-resistant prostate cancer (NM-CRPC) [FDA Label]."
-L01XE37,
 N07XX13,For the treatment of tardive dyskinesia in adults [FDA Label].
 H02AB13,Deflazacort is indicated for the treatment of Duchenne Muscular Dystrophy (DMD) in patients 2 years of age and older.[FDA label]
-J01DC14,
 C10AX15,"Bempedoic acid is indicated as an adjunct to diet and maximally tolerated statin therapy for adults with heterozygous familial hypercholesterolemia or existing atherosclerotic cardiovascular disease that warrants additional lowering of LDL-C.[L12144]
 
 The combination of bempedoic and ezetimibe is also indicated with diet management and maximally tolerated statin therapy to treat elevated LDL-C levels in adults with heterozygous familial hypercholesterolemia or existing atherosclerotic cardiovascular disease who require further lowering of LDL-C.[L12150]"
@@ -9074,8 +8780,6 @@ L04AA36,Indicated for the treatment of adult patients with relapsing or primary 
 P01CA02,For use in the treatment of Chagas disease in children 2-12 years of age [L939].
 M01AX21,For the treatment of osteoarthritis affecting the hip or knee [L780].
 B02BX08,Indicated for the treatment of thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure [FDA label].
-L03AX09,
-L01XX53,
 L01XE50,"* Indicated in combination with fulvestrant for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. 
 
 * Inidicated as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting. "
@@ -9086,189 +8790,65 @@ R03DX10,"Benralizumab is indicated as a maintenance treatment of patients 12 yea
 J05AP56,"Vosevi (Voxilaprevir/[DB08934]/[DB11613]) is approved for use in patients with genotypes 1-6 who have been previously treated with an NS5A inhibitor, or patients with genotypes 1a or 3 infection who have previously been treated with an HCV regimen containing [DB08934] without an NS5A inhibitor [L935]. "
 J01AA14,Sarecycline is a tetracycline-class drug indicated for the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 9 years of age and older [FDA Label].
 J01AA20,Sarecycline is a tetracycline-class drug indicated for the treatment of inflammatory lesions of non-nodular moderate to severe acne vulgaris in patients 9 years of age and older [FDA Label].
-B02AB05,
 J05AX18,For use in prophylaxis of cytomegalovirus (CMV) infection and disease in adult CMV-seropositive recipients of an allogeneic hematopoietic stem cell transplant (HSCT) [FDA Label].
-A02BX77,
-A02BX07,
-S01LA02,
-R03BB02,
 J01DH52,"Indicated in combination with meropenem for the treatment of patients 18 years of age and older with complicated urinary tract infections (cUTI) including pyelonephritis caused by the following susceptible microorganisms: _Escherichia coli_, _Klebsiella pneumoniae_, and _Enterobacter cloacae_ species complex.[FDA Label]"
-C04AX27,
-J01CR50,
-J01CR04,
 L01XE44,"Lorlatinib is a third-generation anaplastic lymphoma kinase (ALK) tyrosine kinase inhibitor (TKI) [L4848] indicated for the treatment of patients with ALK-positive metastatic non-small cell lung cancer (NSCLC) whose disease has progressed on a) the prior use of crizotinib and at least one other ALK inhibitor for metastatic disease, or b) the prior use of alectinib as the first ALK inhibitor therapy for metastatic disease, or c) the prior use of certinib as the first ALK inhibitor therapy for metastatic disease [L848, FDA Label]. "
-N06BX18,
 L01XE54,"Gilteritinib is indicated for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia with an FLT3 mutation detected by an FDA-approved test. This indication was expanded for a companion diagnostic to include use with gilteritinib such as the LeukoStrat CDx FLT3 Mutation Assay.[L4830]
 
 Acute myeloid leukemia is cancer that impacts the blood and bone marrow with a rapid progression. This condition produces low numbers of normal blood cells and the requirement of continuous need for transfusions.[L4832] "
-N06BX06,
 D11AH05,"Dupilumab is indicated, as monotherapy or in combination with topical corticosteroids, for the treatment of patients aged 12 years and older with moderate-to­-severe atopic dermatitis whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.[L7186]
 
 It is also used as an add-on maintenance treatment in patients with moderate-to-severe asthma aged 12 years and older with an eosinophilic phenotype or with oral corticosteroid dependent asthma. It is not indicated for the relief of acute bronchospasm or status asthmaticus.[L7186]
 
 Dupilumab is indicated as an add-on maintenance treatment in adult patients with inadequately controlled chronic rhinosinusitis with nasal polyposis.[L10770]"
-M01CC02,
-P01AB06,
-N06AX19,
-J01DI03,
-C07AB14,
-D05BA03,
-C03DA03,
-J05AP58,
 N07XX14,Indicated for improving neurological symptoms and damage from acute ischemic stroke and delaying disease progression of ALS.
 P02BX04,"This drug is indicated for the treatment of fascioliasis in patients aged 6 years old and above.[FDA label,L5452]"
-R03CC11,
-R03AC11,
-A03AD30,
 P01CA03,"Fexinidazole is a nitroimidazole indicated for the treatment of both first-stage (hemolymphatic) and second-stage (meningoencephalitic) _Trypanosoma brucei gambiense_ human African trypanosomiasis (HAT) in patients 6 years of age and older weighing at least 20 kg.[L35940]
 
 Due to the decreased efficacy observed in patients with severe second stage HAT (cerebrospinal fluid white blood cell count (CSF-WBC) >100 cells/μL), fexinidazole should only be used in these patients if there are no other available treatment options.[L35940]"
 L01XE43,"The anaplastic lymphoma kinase positive, metastatic non-small cell lung cancer (ALK+ NSCLC), represents only 3-5% of the NSCLC cancer cases, but the ALK mutation, overexpression and presence in several oncogenic fusion proteins in solid and hematologic tumors have pointed out the importance as well as its potential as a cancer therapy target.[A31311] The ALK-related cases of NSCLC are associated with the presence of the fusion gene EML4-ALK which fused the ALK protein with the echinoderm microtubule-associated protein like-4 whose original function is the correct formation of microtubules.[A31313] The presence of the aberrant fusion protein results in abnormal signaling that provokes increased cell growth, proliferation and survival.[A31316] Crizotinib is indicated for the treatment of such cases but the presence of ALK kinase domain mutations confer resistance to the treatment. Thus, brigatinib is indicated for the treatment of patients with ALK+ NSCLC with intolerance to Crizotinib.[A31314]"
-D08AC05,
 G04BD06,Indicated for symptomatic treatment of urinary incontinence and/or increased urinary frequency and urgency in patients with overactive bladder (OAB) [L2315].  Propiverine may also be used in patients with neurogenic bladder as a result of spinal cord injury [A32581].
 B03XA06,Luspatercept is indicated for the treatment of anemia in adults with beta thalassemia who require regular red blood cell transfusions.[L9980]
-N02BG06,
 J05AR24,"Doravirine is indicated, in combination with other antiretroviral agents, for the treatment of HIV-1 infection in adult patients with no prior antiretroviral treatment history.[L12729] It is also indicated to replace the current antiretroviral regimen in those who are virologically suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no history of treatment failure and no known substitutions associated with resistance to doravirine.[L12729]"
 J05AG06,"Doravirine is indicated, in combination with other antiretroviral agents, for the treatment of HIV-1 infection in adult patients with no prior antiretroviral treatment history.[L12729] It is also indicated to replace the current antiretroviral regimen in those who are virologically suppressed (HIV-1 RNA less than 50 copies per mL) on a stable antiretroviral regimen with no history of treatment failure and no known substitutions associated with resistance to doravirine.[L12729]"
-C01CA14,
-M04AB03,
 J01AA13,Eravacycline is a tetracycline class antibacterial indicated for the treatment of complicated intra-abdominal infections in patients 18 years of age and older [FDA label].
 J01AA20,Eravacycline is a tetracycline class antibacterial indicated for the treatment of complicated intra-abdominal infections in patients 18 years of age and older [FDA label].
 L01XX55,Indicated as monotherapy for the treatment of patients with deleterious BRCA mutation (germline and/or somatic) associated advanced ovarian cancer who have been treated with two or more chemotherapies. Select patients for therapy based on an FDA-approved companion diagnostic for rucaparib.
-N03AX19,
-J01CR50,
-J01CA17,
 B01AF04,Betrixaban is indicated for prophylaxis of venous thromboembolism (VTE) in conditions of moderate to severe restricted mobility or in patients that qualify as in risk of VTE. 
 A16AB18,"Indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome)."
 L04AA42,"This drug is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease in adults [FDA label]."
-A16AB15,
-M01AH07,
-N05AD06,
 N05CD14,Remimazolam is indicated for the induction and maintenance of procedural sedation in adults undergoing procedures lasting 30 minutes or less.[L14647]
-V08AB11,
-A10BH06,
-A10BH52,
-A10BD18,
-D10AF05,
 J01AA15,Omadacycline is indicated for the treatment of community acquired bacterial pneumonia and acute bacterial skin and skin structure infections caused by omadacycline-susceptible organisms in adults.[FDA Label]
 J01AA20,Omadacycline is indicated for the treatment of community acquired bacterial pneumonia and acute bacterial skin and skin structure infections caused by omadacycline-susceptible organisms in adults.[FDA Label]
-L01XX68,
-C02KD01,
 J05AX27,"In 2014, favipiravir was approved in Japan to treat cases of influenza that were unresponsive to conventional treatment.[A191721] Given its efficacy at targetting several strains of influenza, it has been investigated in other countries to treat novel viruses including Ebola and most recently, COVID-19.[A191688,A191724,L12012]"
-R05DB27,
-B05CA05,
-G03AB02,
-G03AA03,
-G03FA07,
-G03DC03,
-G03FB02,
-G03AC02,
-N04BC08,
 L01XX61,Indicated for the treatment of adult patients with relapsed follicular lymphoma (FL) who have received at least two prior systemic therapies.
-G03CA09,
-N02AC03,
 L01XC25,For the intravenous use for the treatment of adult patients with relapsed or refractory mycosis fungoides (MF) or Sézary syndrome (SS) after at least one prior systemic therapy. This approval provides a new treatment option for patients with MF and is the first FDA approval of a drug specifically for Sézary Syndrome [FDA label].
 L01XE57,Fedratinib is indicated to treat adults with primary or secondary myelofibrosis that is either intermediate-2 or high risk.[L8090]
-R06AX25,
-L03AA03,
 C05AD06,"Oxetacaine is available as an over-the-counter antacid and it is used to alleviate pain associated with gastritis, peptic ulcer disease, heartburn, esophagitis, hiatus hernia, and anorexia.[A33109] "
-B01AC10,
-A03AA04,
-J01GB08,
 L04AA38,"Ozanimod is indicated for adults in the treatment of relapsing forms of MS, which may include relapsing-remitting disease, clinically isolated syndrome, and active secondary progressive MS.[L12582]"
 J01GB14,"Plazomicin is indicated for the treatment of patients 18 years of age or older with Complicated Urinary Tract Infections (cUTI) including Pyelonephritis, who have limited or no alternative treatment options. It should only be used to treat infections that are proven or strongly suspected to be caused by susceptible microorganisms [FDA Label]. "
-G01AX66,
-R02AA21,
-D08AJ57,
-A10BH07,
-A10BD22,
-V04CD05,
-C02CA06,
-J04AD01,
-L04AA19,
 J05AX23,"Indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in highly treatment-experienced adults with multidrug-resistant HIV-1 infection failing their current antiretroviral regimen [FDA label].
 
 The approval of Trogarzo was supported by a clinical trial of 40 treatment-experienced adults with MDR HIV-1 infection who persistently had elevated levels of HIV RNA in their blood despite heavy antiretroviral therapy. The majority of study patients had previously been treated with ≥10 antiretroviral medications [L1554]."
-L03AA15,
-G02AD05,
-N05AB10,
-A10BK06,
-C03BX03,
-L03AX03,
-A02BA08,
-A14AA09,
-G02AD01,
-J05AH04,
 D10AD06,Trifarotene is indicated for the topical treatment of acne vulgaris in patients 9 years of age and older.[L9013]
-L03AB14,
 J01XX12,"Lefamulin is indicated to treat adults diagnosed with community-acquired bacterial pneumonia (CABP) that is caused by susceptible bacteria. Its use should be reserved for confirmed susceptible organisms or a high probability of infection with susceptible organisms. The list of susceptible bacteria includes Streptococcus pneumoniae, Staphylococcus aureus (methicillin-susceptible), Legionella pneumophila, Haemophilus influenza, Chlamydophila pneumoniae, and Mycoplasma pneumoniae.[L8093]"
-J04AM04,
-J04AK07,
-L01AA08,
 P01AB07,Secnidazole is indicated for the treatment of trichomoniasis in adults and bacterial vaginosis in adult women.[L39524]
 J01RA07,Secnidazole is indicated for the treatment of trichomoniasis in adults and bacterial vaginosis in adult women.[L39524]
 A16AB19,Pegvaliase is indicated for the management of phenylketonuria (PKU) in adult patients who have uncontrolled blood phenylalanine concentrations greater than 600 micromol/L on existing management. 
-R03AK05,
-R03CC14,
-R03AC15,
-P01CD01,
 H05BX04,"Etelcalcetide is a calcium-sensing receptor agonist indicated for: 
 Secondary hyperparathyroidism (HPT) in adult patients with chronic kidney disease (CKD) on hemodialysis."
-N05AD07,
-L01XE52,
-R06AE06,
-L01AA07,
-C08DA02,
 D06AX14,Ozenoxacin cream is indicated for the topical treatment of impetigo caused by *Staphylococcus aureus* or *Streptococcus pyogenes* in patients aged 2 months of age and older [FDA Label].
-C01CA21,
-C01CA23,
-N06AA05,
 L02BB06,This drug is indicated for the treatment of patients diagnosed with non-metastatic and castrate-resistant prostate cancer.[L10872]
 A06AD12,Lactitol is indicated for the treatment of chronic idiopathic constipation in adults.[L11803]
-A03AX12,
-C02LG01,
-C02LG51,
-C02DB01,
-N06AX15,
-J04AK03,
-N05AX07,
 D08AL30,Indicated for the treatment of acne for topical use or the management of dental caries for dental use. 
-L01XX16,
-P01BF06,
-H02AB17,
 N05AL03,"Tiapride is indicated for the treatment of a variety of neurological and psychiatric disorders including dyskinesia, alcohol withdrawal syndrome, negative symptoms of psychosis, and agitation and aggression in the elderly."
-G01AF06,
-J01RA09,
-J01XD03,
-P01AB03,
-J01RA05,
-J01RA12,
-J01DH05,
-A03AX05,
-N07XX01,
-R01AA09,
-L01AD06,
-C01EB05,
 V04CD06,Indicated for the diagnosis of adult growth hormone deficiency (AGHD) [FDA Label].
-V10AA01,
-N06BX02,
-D03AX10,
-A03AC05,
 D10AF04,Currently under investigation for the topical treatment of ulcerative oral mucositis [L797]
-N05CM13,
-C05CA04,
-C05CA54,
 B02BX07,Lusutrombopag is indicated for the treatment of thrombocytopenia in adults with chronic liver disease who are scheduled to undergo a medical or dental procedure.
-G03FA16,
-G03FB11,
-P01BE01,
 B02BD06,"The vWF and Factor VIII complex is indicated for the prevention of excessive bleeding during and after minor and major surgery in adult and pediatric von Willebrand disease patients. It is also indicated for the on-demand treatment and control of bleeding episodes.[L1880] The von Willebrand disease is an inherited disorder characterized by the deficiency or misfunction of the von Willebrand factor (vWF). Due to this deficiency, the blood cannot clot properly and the patients that present this disease are prone to prolonged or excessive bleeding. There are three types of this disease, and type 3 is an autosomal recessive inherited disorder marked by very low or absent levels of vWF.[L1867]"
 B02BD10,"The vWF and Factor VIII complex is indicated for the prevention of excessive bleeding during and after minor and major surgery in adult and pediatric von Willebrand disease patients. It is also indicated for the on-demand treatment and control of bleeding episodes.[L1880] The von Willebrand disease is an inherited disorder characterized by the deficiency or misfunction of the von Willebrand factor (vWF). Due to this deficiency, the blood cannot clot properly and the patients that present this disease are prone to prolonged or excessive bleeding. There are three types of this disease, and type 3 is an autosomal recessive inherited disorder marked by very low or absent levels of vWF.[L1867]"
-B01AA12,
 J06BB21,Prevents recurrence of Clostridium difficile infection in people 18 years or older who are either currently receiving treatment for C. difficile infection or have a high risk of recurrence. 
 A12AA02,"Calcium glubionate is indicated to treat conditions caused by low calcium levels such as bone loss (osteoporosis), weak bones (osteomalacia/rickets), decreased activity of the parathyroid gland (hypoparathyroidism), and a certain muscle disease (latent tetany). It may also be used in certain patients to make sure they are getting enough calcium (e.g., women who are pregnant, nursing, or postmenopausal, people taking certain medications such as phenytoin, phenobarbital, or prednisone)."
-G03CC03,
-G03CB03,
 L03AA10,"The drug is used to reduce the risk of life-threatening infection in patients with neutropenia, particularly after cytotoxic chemotherapy. 
 Lenograstim is indicated as a treatment to reduce the duration of neutropenia and the severity of infections in patients with non-myeloid malignancy who have undergone autologous or allogeneic bone marrow transplantation, or treatment with established cytotoxic chemotherapy and in addition to reduce the incidence of infection associated with established cytotoxic chemotherapy.
 Lenograstim is also indicated to mobilise peripheral blood progenitor cells (PBPCs) with Lenograstim alone, or after myelosuppressive chemotherapy, in order to accelerate haematopoietic recovery by infusion of such cells, after myelosuppressive or myeloablative therapy. Lenograstim  is also indicated to accelerate the engraftment of these cells after their reinfusion.
@@ -9291,31 +8871,18 @@ S01BA09,"In dermatology, topical clobestasone butyrate helps to reduce the itchi
 In ophthalmology, clobetasone butyrate 0.1% eye drops have been shown to be safe and effective in the treatment of dry eyes in Sjögren's Syndrome."
 M09AX07,Indicated for the treatment of spinal muscular atrophy (SMA) in pediatric and adult patients. 
 L01XE40,For use in treatment of metastatic T790M mutation positive non-small cell lung cancer [A19196].
-C09BA15,
-C09AA15,
 M01AB06,"Alclofenac is indicated in rheumatology, in particular for the treatment of rheumatoid arthritis, ankylosing spondylitis and, as an analgesic, in painful arthritic pathologies."
-S01XA11,
-A14AB01,
 A06AX07,"Plecanatide stimulates intestinal fluid secretions in the gastrointestinal tract to support regular bowel function. Plecanatide, taken orally once daily, works locally in the upper GI tract to stimulate secretion of intestinal fluid and support regular bowel function."
 A16AB17,"Cerliponase alfa is a treatment for late infantile neuronal ceroid lipofuscinosis type 2 (CLN2) disease to decelerate the progressive motor function decline in patients 3 years of age and older. CLN2 disease is a form of Batten disease, a rare inherited neurodegenerative disorder and is associated with seizures, ataxia, rapid loss of language and motor functions, blindness, and early death [L755]. It is caused by the lack the lysosomal enzyme tripeptidyl peptidase-1 (TPP1) and subsequent accumulation of lysosomal storage materials normally metabolized by this enzyme in the central nervous system."
 A11HA07,"Inositol may be used in food without any limitation. As a drug, inositol is used as a nutrient supplement in special dietary foods and infant formula.[L2561] As it presents a relevant role in ensuring oocyte fertility, inositol has been studied for its use in the management of polycystic ovaries.[A32751] Inositol is also being researched for the treatment of diabetes,[A32766] prevention of metabolic syndrome,[A32768] aid agent for weight loss,[A32769] treatment of depression, psychiatric disorder and anxiety disorder[A32770] and for prevention of cancer.[A32771]"
 J01FA08,For the treatment of bacterial infection.
-V09DA02,
 A14AB03,Used as a performance enhancing drug illicitly in athletes. 
-H05BA02,
-D08AA01,
-B05CA08,
 C01EB06,"Phosphocreatine is a naturally occuring substance that is found predominantly in the skeletal muscles of vertebrates. Its primary utility within the body is to serve in the maintanence and recycling of adenosine triphosphate (ATP) for muscular activity like contractions.
 
 Given this utility of phosphocreatine to recycle ATP, the most plausible therapeutic potentials for its use involve conditions caused by energy shortage or by increased energy requirements - such as in ischemic stroke and other cerebrovascular diseases. It is important to note however that relatively little clinical research has been done to significantly further the evidence for any such indications, although it is administered intravenously for cardiovascular conditions in some countries.
 
 Additionally, because phosphocreatine is not regulated as a controlled substance it is taken as a supplement by some professional athletes as a means to perhaps increase short bursts of muscle strength or energy for professional athletics. "
 B02BD02,"The human antihemophilic factor is indicated for the cases of hemophilia A, also known as classical hemophilia for the prevention and control of hemorrhagic episodes.[L1055] If surgery is needed in patients with hemophilia A there is a need of correction of the clotting abnormality. In this cases, the human antihemophilic factor may be administered followed by intermittent maintenance doses.[L1053] The hemophilia A is characterized by the deficiency of the coagulation factor VIII that results in prolonged blood flow after injury or surgery as well as recurrent bleeding.[T56]"
-G02CX03,
-R05CA12,
-C05CX03,
-N05CM09,
-C04AF01,
 A09AC01,"Used as a pancreatic enzyme replacement in pancreatic insufficiency [L2357].  It is intended to mimic naturally produced human pepsin [L2360].
 
 Pepsin powder is prepared from the gastric mucosa of pigs, cattle or sheep [L2367]. In the laboratory, it is primarily used for the unspecific hydrolysis of proteins and peptides in acidic media. In addition, it provides limited hydrolysis of native immunoglobulins, yielding biologically active fragments [L2353].
@@ -9326,88 +8893,17 @@ A09AA03,"Used as a pancreatic enzyme replacement in pancreatic insufficiency [L2
 Pepsin powder is prepared from the gastric mucosa of pigs, cattle or sheep [L2367]. In the laboratory, it is primarily used for the unspecific hydrolysis of proteins and peptides in acidic media. In addition, it provides limited hydrolysis of native immunoglobulins, yielding biologically active fragments [L2353].
 
 In certain supplements, pepsin may be combined with betaine and HCl (hydrochloric acid) to aid in digestion in various gastrointestinal conditions [L2360], [L2352]."
-B01AD06,
 L03AA14,Indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes) [L2441]. 
-A05AX01,
-R03DA08,
-P03BX05,
-P01AC04,
-C04AA31,
-A05BA01,
-H02AB11,
 A02BX12,Indicated for over-the-counter use as an antacid. 
-D03AX11,
-C02CC03,
-V04CH03,
-N05AB09,
-S01AB03,
-V04CE02,
-R05DB07,
-M01AB10,
-M02AA14,
-B05CA06,
-J01XX06,
-N06AX13,
-B03AA09,
-N05CM12,
-P01AA05,
-D07AB04,
-R05DB23,
-N06AA08,
-N07CA04,
-C05AX05,
-C05CX01,
-C01DB01,
-N01AG01,
-L02AB03,
-G03DA01,
 A12AA05,Indicated for use as the nutritional supplement. 
-M02AA22,
-N06AB07,
-N01AX04,
 A01AB19,"In the industry, sodium perborate is used as a disinfectant. It is also part of the ingredients for detergents, bleach powders, and personal care formulations. In cosmetic products, perboric acid and mainly its salt are used as an oxidizing agent for dyeing or permanent waving.[F66] 
 
 In dentistry, sodium perborate monohydrate is used as an aid for the removal of phlegm, mucus or other secretions associated with an occasional sore in the mouth, for cleansing minor wounds, for temporary cleanse of canker sore or for the removal of foreign materials in minor wounds.[L2770]
 
 In ophthalmic preparations, sodium perborate is used as a preservative for products used for dry eye. This use is approved as this compound rapidly degrades to harmless byproducts.[T203]"
-P02BX03,
-J01XX03,
-R01AA11,
-R01AB08,
-R05CB14,
-C01AC03,
-L04AA35,
-C01CE04,
-L01XX18,
-B02AA03,
-P03AA05,
-N06AA23,
-N06BX16,
-G01AE10,
-A07AB02,
 A02AA05,"Magnesium silicate is used to absorb moisture, prevent caking, and to improve the feel of a product. In the pharmaceutical companies, it is used as a dietary supplement, as part of the formulation ingredients in drug production, in antacid and antiulcer preparations, as a component of antiepileptic drugs, in antifungal topical agents and in the treatment of acne and as a facial moisturizer.[L2603] 
 
 When complexed with arginine, magnesium silicate can be used as an antiatherosclerotic agent and to promote bone and cartilage formation in mammals.[T186]"
-A02BX04,
-C01CA18,
-N04AA12,
-N05CA22,
-A03AB18,
-C01DA57,
-C01DA07,
-N05AH06,
-P01AC03,
-N01BX01,
-J05AX02,
-D06BB07,
-J01MA21,
-S01EB58,
-S01EB08,
-P03AX04,
-J01AA10,
-C01DX06,
-J01DB07,
-R01AX05,
 G01AB01,"Acetarsol has been used for the treatment of different diseases such as syphilis, amoebiasis, yaws, trypanosomiasis, and malaria.[L2624] Acetarsol was used commonly for the treatment of vaginitis due to _Trichomonas vaginalis_ and _Candida albicans_.[A32839, A32841] When orally administered, acetarsol can be used for the treatment of intestinal amoebiasis and in the form of suppositories it has been researched for the treatment of proctitis.[L2626]
 
 Protozoan infections are parasitic diseases characterized to be caused by organisms classified in the kingdom Protozoa which is formed by a great diversity of organisms.[L2627]"
@@ -9418,720 +8914,66 @@ A07AX02,"Acetarsol has been used for the treatment of different diseases such as
 
 Protozoan infections are parasitic diseases characterized to be caused by organisms classified in the kingdom Protozoa which is formed by a great diversity of organisms.[L2627]"
 R02AA03,Dichlorobenzyl alcohol in combination with [DB13908] is available in over-the-counter products used for symptomatic relief of acute sore throat and postoperative sore throat.[A27155]
-J01GB09,
-R05CA08,
-G04BD03,
-N05AL02,
-S01AA22,
-B01AA09,
-A03AX06,
-C01DX54,
-C01DX04,
-N02BE04,
-N02BE74,
-N02BE54,
-C01DX05,
-A02AB05,
-D03BA03,
-M09AB03,
-D09AA05,
-J01EB01,
-G01AE10,
-C03BA09,
-A08AA06,
-M01AB07,
-J01FA11,
-J05AC03,
-D06BB02,
-N02BG02,
-A01AA03,
-C01DX15,
-R06AX23,
 R05CA04,"Ipecac is indicated as an emetic agent for the induction of vomiting in poisoning victims who ingested systemic poison in order to prevent absorption of the chemicals through the gastrointestinal tract. In low doses, ipecac was also used as an expectorant.[L2753]
 
 Reports have suggested that ipecac was vastly used in patients with eating disorders to produce vomiting.[T49]"
 V03AB01,"Ipecac is indicated as an emetic agent for the induction of vomiting in poisoning victims who ingested systemic poison in order to prevent absorption of the chemicals through the gastrointestinal tract. In low doses, ipecac was also used as an expectorant.[L2753]
 
 Reports have suggested that ipecac was vastly used in patients with eating disorders to produce vomiting.[T49]"
-S01AA25,
-M03AC04,
-S01AX15,
-D08AC03,
-M02AX05,
-V04CH04,
-A02BX08,
-J01CA07,
-J02AA02,
-D01AA03,
-G01AA06,
-M03BA05,
-L01AC02,
-D04AA12,
 P01AA04,Chlorquinaldol was used historically as a topical antiseptic agent for skin infections.[F4549] It maintains use in European countries as a combination vaginal tablet with promestriene for use in the treatment of vaginal infections.[F4552]
 R02AA11,Chlorquinaldol was used historically as a topical antiseptic agent for skin infections.[F4549] It maintains use in European countries as a combination vaginal tablet with promestriene for use in the treatment of vaginal infections.[F4552]
 G01AC03,Chlorquinaldol was used historically as a topical antiseptic agent for skin infections.[F4549] It maintains use in European countries as a combination vaginal tablet with promestriene for use in the treatment of vaginal infections.[F4552]
 D08AH02,Chlorquinaldol was used historically as a topical antiseptic agent for skin infections.[F4549] It maintains use in European countries as a combination vaginal tablet with promestriene for use in the treatment of vaginal infections.[F4552]
-C01AB51,
-C01AB01,
-M01AB13,
-R05DB02,
-G03XC04,
-A03AX09,
-C09AA12,
-C09BB12,
-C09BA12,
-N04BA04,
-N04BA05,
-M01AE16,
-R05CB07,
-S01FB03,
-C01CA16,
-M01AE15,
-G02CC04,
-L01CC01,
-G01AF14,
-P01AB05,
-J01ED06,
-V08AA09,
-A02AD04,
-N01AB05,
-M03BX07,
-A07AX04,
-D08AA03,
-B01AC03,
-N01BB05,
-S01XA01,
-C01CA25,
-N05CE03,
-P03BX04,
-C01DX13,
-L01AB03,
-N05BA14,
-P03BX02,
-J01CR50,
-J01CE05,
-J01FA14,
-L01AG01,
-C04AX19,
-N06BA08,
-C01DX14,
-D10AB03,
-D08AK01,
 C04AE54,"Dihydroergocristine is used in some countries such as Brasil as a single agent for the treatment of cerebral and peripheric vascular events.[L2649] To know more about dihydroergocristine as part of the ergoloid mesylate mixture, please visit [DB01049]."
 C04AE04,"Dihydroergocristine is used in some countries such as Brasil as a single agent for the treatment of cerebral and peripheric vascular events.[L2649] To know more about dihydroergocristine as part of the ergoloid mesylate mixture, please visit [DB01049]."
 M01AB17,"Indicated for the treatment of various skin conditions, such as atopic eczema and other inflammatory dermatoses. "
 M02AA09,"Indicated for the treatment of various skin conditions, such as atopic eczema and other inflammatory dermatoses. "
-B01AA10,
-C10AX03,
-R06AB07,
-G01AF13,
-P01AB04,
-A03AA30,
-N06BX04,
-N02BG05,
-M03BA71,
-M03BA51,
-M03BA01,
-C04AX24,
-P03AA03,
-D10AB05,
-M03BA04,
-C01BG07,
-A12CC05,
-D01AE19,
-A03AX30,
-N03AX13,
-M01AX24,
-D11AX09,
-M01AX18,
-M02AA16,
-M01AX68,
-A12AA06,
-B05XA13,
-A09AB03,
-B01AC02,
-D10AD05,
-A03AB01,
-N05CM03,
-M01AB12,
-B02BC08,
-R02AA13,
-C04AX07,
-L01XC01,
-G04BX10,
-N05CA09,
-C01CA05,
-P01AX01,
-A03AA09,
-B03AB03,
-N05AA07,
-D08AG04,
-N06CA02,
-N06AA14,
-N04BC03,
-G03GB03,
-D09AA04,
-V08AD02,
-R05CA11,
-D08AK04,
-P01AX02,
-P01AX52,
-A01AD06,
-B02BC05,
-R03DX02,
-N03AB03,
-R05DB18,
-C01DX03,
-C01DX53,
-G02CB06,
-C01DX18,
-C01AA08,
-N05CC03,
-N05AE01,
-S01XA05,
-C03BB05,
-C03BA05,
-A10BB06,
-M02AA24,
-N02BB05,
-C01DA54,
-C01DA04,
-J01FA12,
-C02CC07,
-N06AA07,
-N06BX08,
-N04AA09,
-M03BX30,
-R07AB53,
-R07AB03,
-A11DA02,
-J04AK04,
-G03CB04,
-A02BX11,
-R06AD06,
 D06BB09,"Edoxudine was used in Europe, in the form of a topical antiviral, for the treatment of human herpes keratitis.[A32643] Human herpes keratitis is an inflammation of the cornea in the eye caused by herpes simplex virus infection. This infection is a cause of significant morbidity whose incidence is significantly increased in the presence of recurrent infection and it can even produce corneal blindness.[A32645]
 
 Edoxudine 3% cream was also indicated for the treatment of dermal herpes simplex virus.[A32643] This virus can produce an infection ubiquitously and it is highly contagious. There are two types of herpes virus, type 1 that is mainly transmitted by oral-to-oral contact and type 2 that is sexually transmitted.[L2411]"
-C10AD03,
-B03AB04,
-P03AB51,
-P03AB01,
-G01AF18,
-D01AC16,
-V10AX06,
-V08AC05,
-C02AC04,
-C03AA13,
-C03EA05,
-A02BX06,
-M01AB09,
-C10AB06,
-D01AC12,
-G01AF12,
-C02DB03,
-R05DB17,
-N05BA03,
-N06BX14,
-A03AX01,
-C10AD01,
-A05BA04,
-C07AB11,
 V08AA05,Ioxitalamate in both of its available forms is indicated for exploration of the digestive tract by tomodensitometry or by regular gastroduodenal radiography. Its use is restrained to the cases in which the administration of barium sulfate is not recommended or contraindicated.[F55] The intravascular administration of ioxitalamate is contraindicated as it may present significant side effects.[F54]
-R05DB26,
-A10BX01,
-R07AB06,
-N04AA10,
-R03DA03,
-R03DB03,
-B01AA11,
-C02DB04,
-N01AX15,
-N02AA04,
-N06BX22,
 J01FA03,"Midecamycin was used for the treatment of infections in the oral cavity, upper and lower respiratory tracts and skin and soft tissue infections. The alone use of midecamycin was mainly used in Europe or Japan.[T207] "
-N06AX10,
-R05DA10,
-D01AA04,
-C10AB07,
-J01DD17,
-P02CX02,
-N02CX06,
-H01BA05,
-P02CA04,
-R06AX16,
-C01AA06,
-N04AC30,
-P01AX04,
-J01DD09,
-V03AX02,
-G03GB01,
-R05CA07,
-R05DB24,
-J01XE03,
-A03AX02,
-C05BA02,
-N02AX05,
-R06AC52,
-R06AC02,
-L03AX01,
-M01AX23,
-R07AB08,
-B02BX01,
-A14AA06,
-J01ED03,
-A06AD03,
-A02AA03,
-V09XA01,
-C04AX11,
-R06AX01,
-D04AA15,
-C05CA05,
-D07AB05,
-D08AE02,
-G01AX03,
-A05AX03,
-C01CA12,
-S01EB10,
-N06AA13,
-A03AX14,
-J01DD03,
-A03CA04,
-A03AB06,
 M02AA11,"Prior to the withdrawal of bendazac from various international regions of use due to concerns for hepatotoxicity [A39891, A39892, A39893, L4778] the chemical had demonstrated potential usefulness predominantly as the prescription medication bendazac lysine for the indication of managing the level of vision in patients with mild to moderate cataracts to facilitate delaying the need for surgical intervention [A39863, A39869, A39890].
 
 Elsewhere bendazac may still be available in a limited capacity as a non-prescription topical cream product for treating conditions like local pain, inflammation, dermatitis, eczema, pruritis, hives, insect bites, burns, erythema, and others [L4780] - although such products may also be facing general discontinuation [L4781]."
 S01BC07,"Prior to the withdrawal of bendazac from various international regions of use due to concerns for hepatotoxicity [A39891, A39892, A39893, L4778] the chemical had demonstrated potential usefulness predominantly as the prescription medication bendazac lysine for the indication of managing the level of vision in patients with mild to moderate cataracts to facilitate delaying the need for surgical intervention [A39863, A39869, A39890].
 
 Elsewhere bendazac may still be available in a limited capacity as a non-prescription topical cream product for treating conditions like local pain, inflammation, dermatitis, eczema, pruritis, hives, insect bites, burns, erythema, and others [L4780] - although such products may also be facing general discontinuation [L4781]."
-N04BX03,
 S01AA05,Tyrothricin is used as an over the counter topical antibiotic.
 R02AB02,Tyrothricin is used as an over the counter topical antibiotic.
 D06AX08,Tyrothricin is used as an over the counter topical antibiotic.
-J01DD10,
-A03CA30,
-N05CX05,
-G04BD01,
-G01AA08,
-A03AB11,
-C07AA27,
-N02BA02,
-B01AC15,
-C04AX20,
-A03FA06,
-P01AC02,
-D01AE03,
-S01BC09,
-N07BC05,
-G01AX01,
-C01CX06,
 A02BX13,"Indicated for the management of gastric reflux, reflux oesophagitis, hiatus hernia, heartburn (including heartburn of pregnancy) and similar gastric distress [F46]."
-A04AD02,
-G02CB05,
-C10AX10,
-N06BX21,
-N05AL06,
-N02BB74,
-N02BB54,
-N02BB04,
-R05CA05,
-A06AD14,
-M01AB14,
-G03AA15,
-G03FB03,
-G03AB07,
-G03DB06,
-C05BX01,
-C05BX51,
-C07AA14,
-A03AC04,
-G01AE10,
-C03AB07,
-C03EA07,
-C03AA07,
-G03DC31,
-N05BX02,
-J06BC01,
-P01AA01,
-A07AX01,
-G01AC06,
-C01AA09,
-N02BA14,
-V08AC01,
-J01GB11,
-N02CX03,
-A03AB13,
-A03DA03,
-A03CA06,
-L01AX01,
-N02BA07,
-N02BA77,
-N02BA57,
-M04AB04,
-N06BX10,
-G01AE01,
-D08AC01,
-S01AX14,
-V03AB27,
-N06AX08,
-M04AC02,
-N05AD02,
-J01DF02,
-N05AD04,
-C01BA08,
-J01ED09,
-N05AB05,
-R05DB25,
-R03AC05,
-D03AX02,
-A08AA08,
-G03AC07,
-R05DB15,
-A01AB14,
-D08AJ05,
-R06AX32,
-P02DX01,
-V08AA10,
-B03AA05,
-B02BC02,
-G01AA11,
-N05BC03,
-R03DA09,
-C01DX08,
-C02AA07,
-C02LA07,
-C02AA57,
-C10AD04,
-N05CA21,
-N01BA01,
-R07AB09,
-A07AB04,
-A03AA06,
-V09XX04,
 M03BX06,Mephenesin was used for the treatment of muscle spasticity in diseases like Parkinson's or Multiple Sclerosis.
-M03AC02,
-C01DX01,
-C01DX51,
-A14AA03,
-D11AE01,
-G03BB01,
-C04AX21,
-A12AA11,
-A04AD05,
-R03DB06,
-R03DA06,
-A02BX10,
 A02AD05,"Almasilate is indicated for use as an antacid for the neutralization of excess stomach acid [F25]. It is subsequently also used for the symptomatic treatment of diseases where it is necessary to neutralize acid in the stomach, for example, for treating stomach and duodenal ulcers or heartburn and stomach conditions caused by excess stomach acid [F25]."
-M01CA03,
-J05AX01,
-N01AA01,
-P01AR02,
-P03BA03,
-N06BX07,
-G03DB07,
-D01AA07,
-C02CC06,
-N01AH04,
-N02AD02,
-S01AX16,
-J04AD02,
 J05AX13,"Umifenovir is currently licensed in China and Russia for the prophylaxis and treatment of influenza and other respiratory viral infections.[A191475] It has demonstrated activity against a number of viruses and has been investigated in the treatment of _Flavivirus_,[A191388] Zika virus,[A191391] foot-and-mouth disease,[A191394] Lassa virus,[A191403] Ebola virus,[A191403] and herpes simplex.[A191409] In addition, it has shown _in vitro_ activity against hepatitis B and C viruses, chikungunya virus, reovirus, Hantaan virus, and coxsackie virus B5.[A191475,A191412]
 
 Umifenovir is currently being investigated as a potential treatment and prophylactic agent for the prevention of COVID-19 caused by SARS-CoV-2 infections.[A191385,A191550]"
-N02CB01,
-D01AC04,
-N02BA15,
-B01AC08,
-D01AE08,
-R01AA10,
 L03AX15,"Indicated in children, adolescents and young adults for the treatment of high-grade, resectable, non-metastatic osteosarcoma after macroscopically complete surgical resection, typically in combination with post-operative multi-agent chemotherapy [L1203]."
-B01AE04,
-C03BA12,
-C03BA82,
-M05BX01,
-N04AA11,
 A12BA05,"Because of potassium’s wide-ranging roles in the body, low intakes can increase the risk of illness [L2655].
 
 Potassium supplements are indicated to prevent hypokalemia in patients who would be at particular risk if hypokalemia were to develop (e.g., digitalis treated patients with significant cardiac arrhythmias). Potassium deficiency occurs when the rate of loss through renal excretion and/or loss from the gastrointestinal tract is higher than the rate of potassium intake. In addition to serving as a preventative supplement, potassium gluconate also serves as a treatment for decreased potassium levels [L2655], [L2651], [L2657]."
-B02BC03,
-V09XX03,
-N05BX04,
-R03CB02,
-R03CC10,
-R03AC10,
-A02AB07,
-J01MB05,
-D01AE10,
-M01AA02,
-M02AA02,
-R05DB12,
-C02AA06,
-C02LA04,
-G01AX13,
-G01AA09,
-G04CX03,
-A01AB16,
-D01AA06,
-C04AD01,
-C01EB11,
-N04AB01,
-C01DA38,
-J01DC13,
-B03AA08,
-A02BX09,
-J05AA01,
-M03BX03,
-N05CD11,
-H03BA01,
-C01BC09,
-B01AD08,
-L01AD03,
-M03AA01,
-M01AX13,
-A02AB06,
-C01BA12,
-C01BD03,
-C01BC07,
-A07BC05,
-R07AB02,
-R07AB52,
-D01AC17,
-N02BA10,
-B05AA09,
-P01AX08,
-J01CE03,
-P02BX02,
-N05CM10,
-C03BB07,
-C03BA07,
-S01BA12,
-N05AD09,
-A03AB17,
-A03DA07,
-J01DE03,
-N06DA05,
-N02BA08,
-P02CC02,
-D01AE09,
-A03AC02,
-J01GB13,
-L03AX18,
-A10BB10,
-N05AX10,
-L01AC03,
-A03AA08,
-R06AB52,
-R06AB02,
-C05CX02,
-C04AX23,
-J01DE02,
-D04AB05,
-G01AF16,
-D01AC13,
-G03AC04,
-G03AA02,
-J01CE07,
-N05CM16,
-M09AX04,
-D05AX04,
-N01AA02,
-C01AA02,
-C01AA52,
-R03CC09,
-R03AC09,
-J01CA16,
-N07AA03,
-A03AB04,
-D01AE01,
-R02AA01,
-B03AA04,
-J01EB08,
-V03AB14,
-V08AA06,
-A01AB15,
-C01CA15,
-J01FG01,
-D08AJ10,
-D08AX02,
 A06AD21," It acts as an emulsifier and pH control agent in food products [L2590], [L2598].
 In the laboratory, it is used while performing the Karl Fischer equation, which is used to determine the water content of various substances [F18], [L2590]."
-C03BA13,
-C04AC07,
-A14AA04,
-R06AX21,
-P03AA01,
-R06AX31,
-J01XX02,
-C01DX10,
-P03BX03,
-P03AC53,
-P03AC03,
-M09AA01,
-C01DA09,
-C01DA59,
 A03CA08,"Used in the treatment of peptic ulcer, gastric hyperacidity, and hypermotility in gastritis and pylorospasm, and in the treatment of hyperhidrosis (excessive perspiration)."
 A03AB15,"Used in the treatment of peptic ulcer, gastric hyperacidity, and hypermotility in gastritis and pylorospasm, and in the treatment of hyperhidrosis (excessive perspiration)."
-P03BA02,
-M01AE08,
-C01EB22,
-G01AX05,
-G04BD05,
-A07AB03,
-C04AX30,
-D07AC12,
 B02AB04,Camostat mesylate is indicated in Japan to treat chronic pancreatitis and drug induced lung injury.[A193845] It is also being investigated as a potential treatment for COVID-19.[A193800]
-J01XE02,
-R05DB13,
-P01CB01,
-N05CX03,
-N05CM15,
-D08AE06,
-R01AA12,
-N05CA10,
-A03AA03,
-A03DA05,
-J01CE06,
-R07AB05,
-V08AC03,
-H05BA04,
-M01CB02,
-J01MB03,
-M03AC08,
 P03AC52,Bioallethrin was used for lice and scabies infestation. Other pyrethroids are now used in place of bioallethrin.
 P03AC02,Bioallethrin was used for lice and scabies infestation. Other pyrethroids are now used in place of bioallethrin.
 D03AX12,"Trolamine is used as an alkalizing agent, surfactant, and counter-ion in cosmetic and pharmaceutical formulations [A27174]. It is not considered to be an active pharmacological ingredient and so has no official indication."
-A05BA07,
 A12CC03,"Magnesium gluconate is a mineral supplement which is used to prevent and treat low levels of magnesium. Magnesium is very important for the normal physiologic functioning of cells, nerves, muscles, bones, and the heart. Generally, a well-balanced diet provides the necessary amounts of magnesium for homeostasis. However, certain conditions causing chronic magnesium deficiency may decrease levels of magnesium. These conditions include treatment with diuretics, a poor diet, alcoholism, or other medical conditions (e.g., severe diarrhea/vomiting, stomach/intestinal absorption problems, poorly controlled diabetes) [L2600]."
-V03AB13,
 A05BA08,"Glycyrrhizic acid is widely applied in foods as a natural sweetener. As a therapeutic agent, is has been used in a vast variety of formulations as it is reported to be anti-inflammatory, anti-ulcer, anti-allergic, antioxidant, anti-tumor, anti-diabetic and hepatoprotective. Due to this properties, its indications have been: treatment of premenstrual syndrome, treatment of viral infections, anti-lipidemic and antihyperglycemic.[A33063] It is also known to be used as a remedy for peptic ulcer and other stomach diseases.[T205]"
-P03BA04,
-C04AX26,
-N05BX01,
-V08AA08,
-C01AX02,
-C07AB10,
-N06BX01,
-A03AB21,
-A02BA05,
 A09AA04,"Tilactase is indicated for the symptomatic treatment of lactose intolerance in infants and older patients requiring a parenteral nutrition or fluid diet.[L2338]
 
 Lactose intolerance occurs when there is an existence of an inability to break down lactose which is commonly found in dairy products. This inability occurs when the lactase levels are reduced and thus there is no via to digest and break down the lactose. The undigested lactose moves into the large intestine where normal flora bacteria can interact with it and cause bloating, gas and diarrhea.[A32592] "
-A02BC07,
-M01CB05,
-C05CA02,
-D08AK03,
-C08EX01,
-L02BG05,
-R05CB08,
-A03AB16,
-N05CA08,
-B03AB01,
-J01MA10,
-J01ED05,
-R02AA10,
-C07AA16,
-D06BB08,
-C01CA13,
-J01DB06,
-C02CC05,
-C10AB03,
-C01CX07,
-N06AA03,
 M01AB11,"Acemetacin is not FDA, Canada or EMA approved, but in the countries where it is marketed it is indicated for the symptomatic treatment of pain and swelling in acute inflammation of the joints in rheumathoid arthritis, osteoarthritis, low back pain and post-surgical pain.[L1045] It is also indicated for the treatment of chronic inflammation of the joints in presence of rheumatoid arthritis, treatment of ankylosing spondylitis, treatment of irritation in the joints and spinal column caused by degenerative disorders, treatment of inflammatory soft-tissue rheumatism syndrome and painful swelling and inflammation caused by injury.[L1044, L1046]"
-N05AB01,
-R05DB19,
-A12CC09,
-N02AX01,
-A03AX03,
-S02AA04,
-N06BX05,
-N05AG03,
-C03BB03,
-C03BA03,
-C04AX17,
-R05DB28,
-J01EA02,
-R05DB16,
-V09XA02,
-H01BB01,
-N03AC03,
 A12AA30,"This new application of calcium is intended for use as a food fortifier, to fortify foods like sauces, condiments, beer, beverages, soft drinks, milk and milk products, soy milk and soy products with calcium nutrition [L2765]. Calcium levulinate can be used alone, or with calcium lactate, calcium chloride, and other compounds, either for pharmaceutical tablets, capsules, or injections preparation [L2765]. In essence, calcium levulinate is ultimately a relatively new calcium supplementation option [L2767]."
-C03CD01,
-A05BA05,
-C03BA10,
-H03BA03,
-N05CA12,
-N06BX09,
-M04AA02,
-R06AX15,
-L01CD03,
-R05DA11,
-L01XX36,
-R03DA10,
 D09AA13,No approved therapeutic indications. 
-J01CA15,
-D11AC09,
-J01CA19,
-N05CM04,
-S01AX05,
-A03AX07,
-R06AD08,
-J01DB12,
-R05DB22,
-J01MB04,
-A02BB02,
-R05DB14,
-P03BX06,
-R01AA15,
-P03BA01,
-A02AC02,
-G01AX15,
-V03AB18,
-D08AX06,
-L01AD07,
-A03BB02,
-D08AK02,
-A03AX11,
-J01CA14,
-N05CD12,
-B05CA07,
-N02BA09,
-N02BA59,
-N02BA79,
-M01BA02,
-R06AD05,
-R06AD55,
-N05AF02,
-C04AD04,
-H02AB14,
-A03CA09,
-A03AB14,
-C01DX07,
-R06AX58,
-R06AX08,
-V10AX05,
 V09IX05,Fluorodopa F 18 is indicated for use with positron emission tomography (PET) to visualize dopaminergic nerve terminals in the striatum for the evaluation of adult patients with suspected Parkinsonian syndromes (PS).[L12849]
-C10AB10,
-A03AB19,
-P01BE04,
-A08AA09,
 A16AX02,"The most typical uses for which anethol trithione is currently indicated for includes increasing salivary secretion in patients experiencing dry mouth or being used as an adjunctive therapy for cholecystitis, gallstone, indigestion, and acute/chronic hepatitis [A32614, A32616, L2377].
 
 In addition, although some studies have suggested that anethol trithione also possesses a certain capacity to inhibit tumorigenesis as a potential cancer therapy medication, the specific mechanism of action for this effect remains to be elucidated [A32619] with certain national cancer institutes listing the agent as 'a substance that is being studied in the treatment of cancer' [L2373]."
 D11AX02,Indicated as a dietary supplement for over-the-counter uses. 
 D11AX52,Indicated as a dietary supplement for over-the-counter uses. 
-A07AX03,
-D07AC02,
-G03DB05,
-D01AE17,
-N02BA16,
-V08AB08,
-B05XA10,
-C01EB07,
-B05AA08,
-P01AX09,
-G03DC06,
-G03FA06,
-G03AA01,
 R03BA05,"Fluticasone's 2 esters are indicated as inhalers for the treatment and management of asthma by prophylaxis[FDA Label][F4364]as well as inflammatory and pruritic dermatoses[F4355]. A [DB00588] nasal spray is indicated for managing nonallergic rhinitis[F4358] while the [DB08906] nasal spray is indicated for treating season and perennial allergic rhinitis[F4361,A177130]."
 D07AC17,"Fluticasone's 2 esters are indicated as inhalers for the treatment and management of asthma by prophylaxis[FDA Label][F4364]as well as inflammatory and pruritic dermatoses[F4355]. A [DB00588] nasal spray is indicated for managing nonallergic rhinitis[F4358] while the [DB08906] nasal spray is indicated for treating season and perennial allergic rhinitis[F4361,A177130]."
 R03AK11,"Fluticasone's 2 esters are indicated as inhalers for the treatment and management of asthma by prophylaxis[FDA Label][F4364]as well as inflammatory and pruritic dermatoses[F4355]. A [DB00588] nasal spray is indicated for managing nonallergic rhinitis[F4358] while the [DB08906] nasal spray is indicated for treating season and perennial allergic rhinitis[F4361,A177130]."
@@ -10153,10 +8995,6 @@ Cytomegalovirus Immune Globulin Intravenous (Human) is indicated for the prophyl
 
 In transplants of these organs other than the kidney from CMV seropositive donors into seronegative recipients, prophylactic CMV-IGIV should be considered in combination with ganciclovir [FDA label]."
 L01XX51,"This medication is a genetically modified oncolytic viral therapy indicated for the local treatment of unresectable, cutaneous, subcutaneous, and nodal lesions in patients with melanoma recurrent after initial surgery [FDA Label]. Elsewhere, the EMA notes that the agent is indicated for the treatment of adults with unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC, and IVM1a) with no bone, brain, lung, or other visceral diseases [L2209]."
-C09DA06,
-C09DB07,
-C09DX06,
-C09CA06,
 B02BX06,"The main function of Emicizumab is the prevention of bleeding episodes. Thus, Emicizumab is approved for the routine prophylaxis to prevent or reduce the frequency of bleeding episodes of adult and pediatric patients with hemophilia A with or without Factor VIII inhibitors.[L4657]
 
 Hemophilia A is a deficiency of coagulation Factor VIII which causes a serious bleeding disorder. The standard treatment is done with the administration of recombinant or serum-deriver Factor VIII which induces the formation of anti-factor VIII alloantibodies (Factor VIII inhibitors) and renders the standard treatment ineffective.[A31286]"
@@ -10173,8 +9011,6 @@ V04CX09,"Patent blue is used for marking lymphatic vessels and arterial territor
 
 Patent blue is also used in the textile, paper, agriculture and cosmetic industry.[A32574]"
 G02CX04,Treatment of menopausal symptoms and menstrual dysfunction [L2307].
-V09HA04,
-C03EA03,
 J05AX25,"For the treatment of influenza A and B virus infection [L1473, L1475], [FDA label] in patients 12 and older who have been symptomatic for no more than 48 hours. 
 Clinical trials of this drug did not include subjects 65 years of age and older to determine whether they respond in a different way than younger subjects [FDA label]."
 L04AC17,"Moderate-severe plaque psoriasis [L1858], [FDA label]."
@@ -10183,7 +9019,6 @@ N02BA03,"The oral gel is indicated for the relief of pain and discomfort of comm
 "
 M05BX05,This drug is indicated for the treatment of X-linked hypophosphatemia with radiological evidence of bone disease in children of 1 year of age and older and adolescents with growing skeletons [L2347].
 R03DA20,"Bromotheophylline is used as a diuretic and also, in combination with [DB00316], it is used for the relief of temporary water weight gain, bloating, swelling and full feeling associated with the premenstrual and menstrual periods.[L2737]"
-N05BA16,
 G01AE10,"Acute, recurrent or chronic urinary tract infections (primarily pyelonephritis, pyelitis and cystitis) due to susceptible organisms (usually Escherichia coli, Klebsiella-Enterobacter, staphylococcus, Proteus mirabilis and, less frequently, Proteus vulgaris) in the absence of obstructive uropathy or foreign bodies [L2804]
 
 Meningococcal meningitis where the organism has been demonstrated to be susceptible. Haemophilus influenzae meningitis as adjunctive therapy with parenteral streptomycin [L2804]
@@ -10201,8 +9036,6 @@ N02CD02,"Galcanezumab is a humanized monoclonal antibody that is indicated for m
 V03AE10,"Sodium zirconium cyclosilicate is a potassium binder indicated for the treatment of hyperkalemia in adult patients.[L12822,F130]"
 C05AX04,Ditiocarb Zinc is approved for use within allergenic epicutaneous patch tests which are indicated for use as an aid in the diagnosis of allergic contact dermatitis (ACD) in persons 6 years of age and older.
 C05AX04,Zinc dibutyldithiocarbamate is approved for use within allergenic epicutaneous patch tests which are indicated for use as an aid in the diagnosis of allergic contact dermatitis (ACD) in persons 6 years of age and older.
-A16AX15,
-C05AX04,
 C05AX04,"Zinc can be used for the treatment and prevention of zinc deficiency/its consequences, including stunted growth and acute diarrhea in children, and slowed wound healing. It is also utilized for boosting the immune system, treating the common cold and recurrent ear infections, as well as preventing lower respiratory tract infections [L2172].  
 
 "
@@ -10553,15 +9386,11 @@ The potassium citrate preparation is used for the management of renal tubular ac
 "
 B03AA01,Used in preventing and treating iron-deficiency anemia.
 S01AX07,No FDA- or EMA-approved therapeutic indications on its own.
-D11AX04,
 D07AC13,"There are 3 formulations of mometasone furoate with various indications. The inhaler is indicated for prophylaxis of asthma in patients ≥4 years[FDA Label]. The nasal spray is indicated for treating nasal symptoms of allergic rhinitis in patients ≥2 years, treating symptoms of nasal congestion from seasonal allergic rhinitis in patients ≥2 years, treating nasal polyps in patients ≥18 years, and prophylaxis of seasonal allergic rhinitis in patients ≥12 years[F4292]. The ointment is indicated for symptomatic treatment of dermatitis and pruritis in patients ≥2 years[F4295]."
 R03BA07,"There are 3 formulations of mometasone furoate with various indications. The inhaler is indicated for prophylaxis of asthma in patients ≥4 years[FDA Label]. The nasal spray is indicated for treating nasal symptoms of allergic rhinitis in patients ≥2 years, treating symptoms of nasal congestion from seasonal allergic rhinitis in patients ≥2 years, treating nasal polyps in patients ≥18 years, and prophylaxis of seasonal allergic rhinitis in patients ≥12 years[F4292]. The ointment is indicated for symptomatic treatment of dermatitis and pruritis in patients ≥2 years[F4295]."
 D07XC03,"There are 3 formulations of mometasone furoate with various indications. The inhaler is indicated for prophylaxis of asthma in patients ≥4 years[FDA Label]. The nasal spray is indicated for treating nasal symptoms of allergic rhinitis in patients ≥2 years, treating symptoms of nasal congestion from seasonal allergic rhinitis in patients ≥2 years, treating nasal polyps in patients ≥18 years, and prophylaxis of seasonal allergic rhinitis in patients ≥12 years[F4292]. The ointment is indicated for symptomatic treatment of dermatitis and pruritis in patients ≥2 years[F4295]."
 R01AD09,"There are 3 formulations of mometasone furoate with various indications. The inhaler is indicated for prophylaxis of asthma in patients ≥4 years[FDA Label]. The nasal spray is indicated for treating nasal symptoms of allergic rhinitis in patients ≥2 years, treating symptoms of nasal congestion from seasonal allergic rhinitis in patients ≥2 years, treating nasal polyps in patients ≥18 years, and prophylaxis of seasonal allergic rhinitis in patients ≥12 years[F4292]. The ointment is indicated for symptomatic treatment of dermatitis and pruritis in patients ≥2 years[F4295]."
 R03AK09,"There are 3 formulations of mometasone furoate with various indications. The inhaler is indicated for prophylaxis of asthma in patients ≥4 years[FDA Label]. The nasal spray is indicated for treating nasal symptoms of allergic rhinitis in patients ≥2 years, treating symptoms of nasal congestion from seasonal allergic rhinitis in patients ≥2 years, treating nasal polyps in patients ≥18 years, and prophylaxis of seasonal allergic rhinitis in patients ≥12 years[F4292]. The ointment is indicated for symptomatic treatment of dermatitis and pruritis in patients ≥2 years[F4295]."
-A12CC07,
-A12CC06,
-A02AB03,
 V03AE08,Tetraferric tricitrate decahydrate is indicated to control serum phosphorous in adults with chronic kidney disease who require dialysis.[L9926] Tetraferric tricitrate decahydrate is also indicated to treat iron deficiency anemia in adults with chronic kidney disease who are not on dialysis.[L9926]
 C05AX04,Zinc chloride injections are indicated for use total parenteral nutrition to maintain zinc serum levels and prevent deficiency syndromes.[L14189]
 B05XA12,Zinc chloride injections are indicated for use total parenteral nutrition to maintain zinc serum levels and prevent deficiency syndromes.[L14189]
@@ -10571,33 +9400,20 @@ D07BB04,"For the relief of the inflammatory and pruritic manifestations of corti
 D07AB11,"For the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses. Also used to treat endocrine (hormonal) disorders (adrenal insufficiency, Addisons disease). It is also used to treat many immune and allergic disorders, such as arthritis, lupus, severe psoriasis, severe asthma, ulcerative colitis, and Crohn's disease."
 C05AX04,"Zinc sulfate is a common zinc supplement in parenteral nutrition.[A216916,L12888]"
 V03AB38,"Andexanet alfa is indicated for patients treated with [rivaroxaban] and [apixaban], when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding [L3725]. Andexxa has not been shown to be effective for, and is not indicated for, the treatment of bleeding related to any Factor Xa inhibitors other than apixaban and rivaroxaban [L3725]."
-N05BX05,
 L01XX62,Ivosidenib is approved for use in the treatment of relapsed or refractory AML with a susceptible IDH1 mutation as detected by an FDA-approved test [FDA Label].
 J01XX11,"Tedizolid is indicated for the treatment of acute bacterial infections of the skin and skin structure (ABSSSI). To prevent drug resistance, tedizolid should only be used for infections that are caused by susceptible bacteria.[L11232]"
-G03FA02,
-G03DA03,
-N03AF04,
 N07XX12,"Patisirant is indicated for the treatment of hereditary transthyretin-mediated amyloidosis in adults [FDA Label].
 
 It is administered with pre-medication to reduce complications [FDA Label]. These include an intravenous corticosteroid equivalent to 10 mg of dexamethasone, 500 mg of oral acetaminophen, an intravenous histamine H1 blocker equivalent to 50 mg of diphenhydramine, and an intravenous histamine H2 blocker equivalent to 50 mg of ranitidine"
-A06AC51,
-S01BA14,
 B06AC05,"Lanadelumab is indicated for the prophylaxis treatment to prevent attacks in patients 12 years and older with hereditary angioedema.[L4537]
 
 The hereditary angioedema (HEA) is an autosomal dominant disorder resulted from the presence of C1 deficiency. Some reports have indicated a high prevalence of cases that result from spontaneous mutations which can be inherited. This condition is manifested by attacks of subcutaneous or submucosal edema in the face, larynx, GI tract, limbs or genitalia. From all the types of attacks, the most serious is the laryngeal as it can compromise the airway. The rest of the attacks are accompanied by pain and considerable dysfunction.[A38679] "
-H01BA03,
-D07AC14,
-A07DA05,
-H02AB10,
-S01BA03,
 A06AC08,Polycarbophil is used to treat constipation and to help maintain regular bowel movements.
 L01XC33,"This drug is a programmed death receptor-1 (PD-1) blocking antibody indicated for the treatment of patients with metastatic cutaneous squamous cell carcinoma (CSCC) or locally advanced CSCC who are not candidates for curative surgery or curative radiation [FDA label, A39201]."
-D08AX04,
 L03AX21,"Elapegademase is approved for the treatment of adenosine deaminase severe combined immune deficiency (ADA-SCID) in pediatric and adult patients.[L4654] This condition was previously treated by the use of bovine pegamedase as part of an enzyme replacement therapy.[L4655]
 
 ADA-SCID is a genetically inherited disorder that is very rare and characterized by a deficiency in the adenosine deaminase enzyme. The patients suffering from this disease often present with a compromised immune system. This condition is characterized by very low levels of white blood cells and immunoglobulin levels which results in severe and recurring infections.[L4656]"
 N07XX15,Inotersen is a transthyretin-directed antisense oligonucleotide indicated for treatment of the polyneuropathy of hereditary transthyretin-mediated amyloidosis in adults.[L11761] 
-N05BA24,
 L01XE53,"Larotrectinib is a tyrosine kinase inhibitor that is currently indicated for the treatment of adult and pediatric patients with solid tumors that either a) have a neurotrophic receptor tyrosine kinase (NTRK) gene fusion without a known acquired resistance mutation, b) are metastatic or where surgical resection is likely to result in severe morbidity, and c) have no satisfactory alternative treatments or that have progressed following treatment [FDA Label].
 
 At the moment, these uses of larotrectinib are only approved under the auspices of an accelerated approval by the US FDA based on overall response rate and duration of response and continuation of support for these indications may be contingent upon the verification and description of continued clinical benefit in confirmatory trials [FDA Label]. "
@@ -10607,14 +9423,12 @@ The HLH condition is a hyperinflammatory status characterized by the overwhelmin
 L01XX67,"Tagraxofusp is indicated for the treatment of blastic plasmacytoid dendritic cell neoplasm (BPDCN) in adults and pediatric patients over 2 years old. This treatment allows an alternative for the previous intense treatment which consisted of intensive chemotherapy followed by bone marrow transplantation.[L4893]
 
 BPDCN is a rare hematologic malignancy derived from plasmacytoid dendritic cells. It is characterized by the significantly increased expression of cells expressing CD4/CD56/CD123 and other markers restricted to plasmacytoid dendritic cells and a lack of expression of lymphoid, natural killer or myeloid lineage-associated antigens.[A40274] A key feature of the malignant cells is the overexpression of CD123, also known as interleukin-3 receptor, and the constant requirement of IL-3 for survival.[L4897]"
-J01DI01,
 B06AA03,"Hyaluronidase is indicated for subcutaneous fluid administration for hydration, and increasing resorption of radiopaque agents in subcutaneous urography.[L13338] Hyaluronidase is also indicated by multiple routes to increase the dispersion of other injectable drugs.[L13338] "
 S02AA11,"Polymyxin B is indicated for the treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of <i>Pseudomonas aeruginosa</i>[FDA Label]."
 S03AA03,"Polymyxin B is indicated for the treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of <i>Pseudomonas aeruginosa</i>[FDA Label]."
 J01XB02,"Polymyxin B is indicated for the treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of <i>Pseudomonas aeruginosa</i>[FDA Label]."
 A07AA05,"Polymyxin B is indicated for the treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of <i>Pseudomonas aeruginosa</i>[FDA Label]."
 S01AA18,"Polymyxin B is indicated for the treatment of infections of the urinary tract, meninges, and blood stream, caused by susceptible strains of <i>Pseudomonas aeruginosa</i>[FDA Label]."
-R05CA06,
 H01AC05,"Mecasermin rinfabate was approved for treatment of severe primary insulin-like growth factor (IGF) deficiency or in patients with GH gene deletion who have developed antibodies to growth hormone (GH)[A176020].
 Severe primary IGF-1 deficiency is defined by:[FDA Label]
 
@@ -10627,10 +9441,7 @@ C) normal or above normal levels of growth hormone
 In 2007, Insmed (Mecasermin rinfabate's manufacturer) made an agreement with Tercica (Mecasermin's manufacturer) that Mecasermin would no longer be available for this indication but could be developed for non short stature conditions such as severe insulin resistance, myotonic muscular dystrophy, and HIV associated adipose redistribution syndrome[A176125]."
 N06BA14,"Solriamfetol is indicated for treatment of daytime sleepiness associated with obstructive sleep apnea and narcolepsy, but is not a treatment for the underlying airway obstruction in apnea patients[FDA Label][A176534,A176744]."
 L04AC18,This drug is for the treatment of moderate-to-severe plaque psoriasis in adults who are eligible to receive systemic therapy or phototherapy based on their disease process.[FDA label]
-P01BB02,
 S01LA06,"Brolucizumab is a monoclonal antibody indicated to treat neovascular age related macular degeneration.[A187208,L9089]"
-L01XC29,
-L01XX56,
 L04AA44,"Upadacitinib is indicated for the treatment of moderately to severely active rheumatoid arthritis or active psoriatic arthritis in adult patients who have had an inadequate response or intolerance to one or more disease-modifying anti-rheumatic drugs (DMARDs), such as methotrexate or TNF blockers.[L10896, L39474] For these indications, upadacitinib may be used as monotherapy or in combination with methotrexate.[L39474]
 
 Upadacitinib is also indicated for the treatment of active ankylosing spondylitis in adult patients who have an inadequate response to conventional therapy and for the treatment of moderate to severe atopic dermatitis in patients aged 12 years and older who are candidates for systemic therapy.[L39474]
@@ -10638,28 +9449,7 @@ Upadacitinib is also indicated for the treatment of active ankylosing spondyliti
 Combining upadacitinib with other JAK inhibitors, biologic DMARDs, or other potent immunosuppressive agents is not recommended.[L10896]"
 L03AB15,Ropeginterferon alfa-2b is indicated for the treatment of adult patients with polycythemia vera.[L39170]
 L04AA41,Imlifidase is indicated for desensitization of highly sensitized adult kidney transplant patients with a positive crossmatch against an available deceased donor.[L28001] The treatment is reserved for patients unlikely to receive a transplant under the available kidney allocation system including prioritization programs for highly sensitized patients.[L28001]
-V04CJ01,
 B06AX01,Crizanlizumab is indicated to reduce the frequency of vaso-occlusive crisis in patients with sickle cell diseases who are ≥16 years old.[L10097]
-L03AA17,
-C01BA13,
 V09IX09,Edotreotide gallium Ga-68 is a radioactive diagnostic compound used in positron emission tomography (PET) for diagnose somatostatin receptor positive neuroendocrine tumors in pediatrics and adults.[L8597]
-L01XD07,
-G04BD13,
 B03AB10,Ferric maltol is indicated to treat iron deficiency in adults.[L10974]
-L03AB03,
-C03EA14,
 A16AB03,Agalsidase alfa is indicated in the treatment of Fabry disease.[L16398]
-B01AX04,
-V09IX07,
-A03DA02,
-S01CA09,
-H02AA03,
-J01EE03,
-J01EE06,
-N05AL07,
-V04CX01,
-L03AA16,
-A16AB16,
-D03AX01,
-L04AX08,
-V09GX01,
