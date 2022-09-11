@@ -1,4 +1,4 @@
-drugbank-id,atc-codes,targets,name
+drugbankid,atccodes,targets,name
 DB00001,B01AE02,Prothrombin,Lepirudin
 BTD00024,B01AE02,Prothrombin,Lepirudin
 BIOD00024,B01AE02,Prothrombin,Lepirudin
